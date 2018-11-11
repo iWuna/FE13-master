@@ -11,7 +11,7 @@
 
 /obj/item/weapon/reagent_containers/pill/patch/radaway
 	name = "RadAway"
-	desc = "RadAway is an intravenous chemical solution that bonds with irradiated particles and passes them through the body's system. It takes some time to work, and is also a potent diuretic."
+	desc = "RadAway is a drug that is consumed orally to purge a pony's system of magical radiation."
 	list_reagents = list("charcoal" = 50)
 	icon = 'icons/fallout/objects/medicine/bloodpack.dmi'
 	icon_state = "radaway"
@@ -20,8 +20,8 @@
 	price = 500
 
 /obj/item/weapon/reagent_containers/pill/patch/jet
-	name = "Jet"
-	desc = "Jet is a highly addictive drug first synthesized by Myron. It is extracted from the fumes of brahmin feces and administered via an inhaler.<br>STRENGTH: +5"
+	name = "Dash"
+	desc = "Dash is a powerful, hallucinogenic stimulant that gives the user a slowed perception of time. While highly addictive and dangerous, it allows the user to think and act faster than they normally could, making it a useful combat drug..<br>STRENGTH: +5"
 	list_reagents = list("jet" = 50, "stimulants" = 20, "crank" = 10)
 	icon = 'icons/fallout/objects/medicine/chemical.dmi'
 	icon_state = "jet"
@@ -29,8 +29,8 @@
 	self_weight = 0.1
 
 /obj/item/weapon/reagent_containers/pill/patch/psycho
-	name = "Psycho"
-	desc = "Psycho will increase damage resistance, allowing subjects to survive hits more easily. <br>STRENGTH: +2<br>ENDURANCE: +2"
+	name = "Rage"
+	desc = "Rage is a very powerful intravenous drug. As its name suggests, it causes the user to enter a fit of rage while simultaneously dampening their mental functions. <br>STRENGTH: +2<br>ENDURANCE: +2"
 	list_reagents = list("psyho" = 20, "methamphetamine" = 9, "epinephrine" = 20, "inacusiate" = 5, "oculine" = 5)
 	icon = 'icons/fallout/objects/medicine/syringe.dmi'
 	icon_state = "psycho"
@@ -38,8 +38,8 @@
 	self_weight = 0.1
 
 /obj/item/weapon/reagent_containers/pill/patch/radx
-	name = "Rad-X"
-	desc = "Rad-X is an anti-radiation chemical that can significantly reduce the danger of irradiated areas."
+	name = "RadSafe"
+	desc = "RadSafe is a drug that greatly increases a pony's resistance to magical radiation."
 	list_reagents = list("potass_iodide" = 30, "pen_acid" = 9)
 	icon = 'icons/fallout/objects/medicine/chemical.dmi'
 	icon_state = "radx"
@@ -47,10 +47,10 @@
 	self_weight = 0.1
 
 /obj/item/weapon/reagent_containers/pill/patch/turbo
-	name = "Turbo"
-	desc = "Turbo appears to be an inhaler of Jet hastily duct-taped to an aerosol can of HairStylez-brand hair spray. Turbo causes brief slowdown of the user's surroundings (time goes at about 35% of its original speed), including everything from enemy movements to projectile speeds (the user's own projectile speed included) to the duration of the drug itself. However, the user does not experience the slowdown - their own movement speed and fire rate will remain the same.<br>AGILITY: +5"
+	name = "Steady"
+	desc = "Steady is a drug that is injected into a pony's veins, using a syringe. Combat drug that is used to calm muscles when they are shaking excessively from muscle spasms/nerves etc..<br>AGILITY: +5"
 	list_reagents = list("turbo" = 10, "stimulants" = 10, "methamphetamine" = 9, "crank" = 9)
 	icon = 'icons/fallout/objects/medicine/chemical.dmi'
-	icon_state = "turbo"
+	icon_state = "steady"
 	item_state = "turbo"
 	self_weight = 0.1
