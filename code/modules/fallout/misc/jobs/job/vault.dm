@@ -1,8 +1,8 @@
 //Followers of the Apocalypse or simple FOB
 
 /datum/job/overseer
-	title = "Overseer"
-	desc = "Head of the Vault."
+	title = "Overmare"
+	desc = "Head of the Stable."
 	flag = VAULT_OVERSEER
 	department_head = list("Vault")
 	department_flag = FOB
@@ -10,7 +10,7 @@
 	status = "overseer"
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "Vault-tec"
+	supervisors = "Stable-tec"
 	selection_color = "#005A20"
 	minimal_player_age = 31
 	whitelist_on = 1
