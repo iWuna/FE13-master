@@ -26,12 +26,12 @@
 	icon_state = "medium_mane"
 
 /datum/sprite_accessory/hair/buzz
-	name = "Buzzcut"
-	icon_state = "hair_buzzcut"
+	name = "Short Mane V2"
+	icon_state = "short_mane2"
 
 /datum/sprite_accessory/hair/punk
-	name = "Punk"
-	icon_state = "hair_punk"
+	name = "Short Mane V3"
+	icon_state = "short_mane3"
 
 /datum/sprite_accessory/hair/crew
 	name = "Crewcut"
