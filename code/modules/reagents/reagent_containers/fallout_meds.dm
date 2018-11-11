@@ -95,8 +95,8 @@
 //Mentats
 
 /obj/item/weapon/storage/pill_bottle/mentats
-	name = "Mentats"
-	desc = "Old, torn box with some pills in it."
+	name = "Mint-Als"
+	desc = "Old, torn box with Zebra face on top."
 	icon = 'icons/fallout/objects/medicine/chemical.dmi'
 	icon_state = "mentats"
 	storage_slots = 8
@@ -108,8 +108,8 @@
 
 	//mentats pills
 /obj/item/weapon/reagent_containers/pill/mentats
-	name = "Mentats"
-	desc = "Helps you, if you stupid. Possible..."
+	name = "Mint-als"
+	desc = "Helps you, if you stupid and feels unhappy. Possible..."
 	icon_state = "pill10"
 	list_reagents = list("mentats" = 20)
 	roundstart = 0
@@ -137,9 +137,9 @@
 
 //magic_powder
 /obj/item/stack/medical/fev
-	name = "FEV"
-	singular_name = "FEV"
-	desc = "FEV nears completion. Test on lab animals are at a near 100% success rate. Size and muscle density increase approximately 60%, and the potential intelligence increase by 200%. Effects upon human subjects remain unknown; although they are theoretically promising. The military, wishing to continue further testing, builds a large facility at the Mariposa military installation in central California. At this new facility, testing of the FEV virus continues on volunteer subjects from the military."
+	name = "IMP"
+	singular_name = "imp"
+	desc = "Impelled Metamorphosis Potion is a viscous, rainbow-colored liquid designed by the Ministry of Arcane Sciences under the direction of Twilight Sparkle. It is a mutagenic agent, and was originally designed for transforming unicorns into more powerful alicorns. Its transforming capabilities require a very careful dosage, and the process of its formulation is extremely delicate and demanding, leading to many flawed batches being discarded. For this reason, indiscriminate contamination (especially if mixed with radiation exposure) is more likely to produce deformed monsters, as it has already happened for several species around the Wasteland, such as bloatsprites, floaters, hellhounds, and the hospital horrors. "
 	icon = 'icons/fallout/objects/medicine/bloodpack.dmi'
 	icon_state = "fev"
 	item_state = "bandaid"
