@@ -229,7 +229,7 @@ mob/proc/set_faction(var/faction)
 	head_status = "gangleader"
 	preview_image = 'html/factions/raider.png'
 	full_name = "Raider Gang"
-	description = "<b>Alignment: Chaotic Evil</b><br>Raiders - Any group of wastelanders who pillage, plunder, murder, or otherwise ruin the day of anyone unfortunate enough to not be one of them.<br>Raiders tend to organize into loose confederations of gangs in the post-apocalyptic wasteland, and are a constant problem.<br>Raiders typically prey upon travelers and very small towns, leaving more populous or larger areas alone."
+	description = "<b>Alignment: Chaotic Evil</b><br>Raiders - Any group of ponies who pillage, plunder, murder, or otherwise ruin the day of anyone unfortunate enough to not be one of them.<br>Raiders tend to organize into loose confederations of gangs in the post-apocalyptic wasteland, and are a constant problem.<br>Raiders typically prey upon travelers and very small towns, leaving more populous or larger areas alone."
 	verbs = list(/mob/proc/begin_head_voting)
 	area = /area/f13/raiders
 	karma = -10
@@ -238,10 +238,10 @@ mob/proc/set_faction(var/faction)
 	name = "Vault"
 	color = "#005A20"
 	id = "vault"
-	full_name = "Vault-Tec Corporation"
-	description = "<b>Alignment: True Neutral</b><br>The Vault-Tec Corporation, or simply the VTC - A former company contracted by the United States government before the Great War to design and produce the Vault system, a vast network of complex fallout and research shelters.<br>When the bombs fell, thousands of carefully-selected Vault dwellers were sealed within the safe confinement of the Vaults, and their lucky descendants have (mostly) lived to the present day."
+	full_name = "Stable-Tec Corporation"
+	description = "<b>Alignment: True Neutral</b><br>The Stable-Tec Corporation, or simply the STC - A former company contracted by the Equestrian government before the Great War to design and produce the Stable system, a vast network of complex fallout and research shelters.<br>When the bombs fell, thousands of carefully-selected Stable dwellers were sealed within the safe confinement of the Stables, and their lucky descendants have (mostly) lived to the present day."
 	preview_image = 'html/factions/vault.png'
-	head_status = "overseer"
+	head_status = "overmare"
 	flags = HAVE_FREQ
 	verbs = list(/mob/proc/begin_head_voting)
 	area = /area/f13/vault
@@ -249,11 +249,11 @@ mob/proc/set_faction(var/faction)
 //	craft_recipes = list(/datum/table_recipe/vlt_encryption_key)
 
 /datum/f13_faction/brotherhood
-	name = "Brotherhood"
+	name = "Steel Rangers"
 	color = "#00215a"
 	id = "bs"
-	full_name = "Brotherhood of Steel"
-	description = "<b>Alignment: Lawful Good</b><br>The Brotherhood of Steel, or simply the Brotherhood - A quasi-religious technological organization operating across the ruins of post-War North America, with its roots stemming from the United States Armed Forces and the government-sponsored scientific community from before the Great War.<br>The Brotherhood members rely heavily on subordination and strict Code of Conduct.<br><i>The Steel Endures!</i>"
+	full_name = "Steel Rangers"
+	description = "<b>Alignment: Lawful Evil</b><br>The Steel Rangers, or simply the Rangers - A quasi-religious technological organization operating across the ruins of post-War Equestria, with its roots stemming from the Steel Rangers and the government-sponsored scientific community from before the Great War.<br>The Ranger members rely heavily on subordination and strict Code of Conduct.<br><i>The Steel Endures!</i>"
 	preview_image = 'html/factions/brotherhood.png'
 	head_status = "elder"
 	flags = HAVE_FREQ
@@ -271,8 +271,8 @@ mob/proc/set_faction(var/faction)
 	name = "Enclave"
 	color = "#005A20"
 	id = "enclave"
-	full_name = "Enclave"
-	description = "<b>Alignment: Lawful Evil</b><br>The Enclave - A secretive political, scientific, and militaristic organization that is descended directly from members of the pre-War United States government.<br>They claim to be the legally-sanctioned continuation of the government, while also styling themselves and their overall demeanor as such.<br>Enclave members take pride in being the last known concentrated bastion of pure, unmutated humanity."
+	full_name = "Grand Pegasus Enclave"
+	description = "<b>Alignment: Lawful Evil</b><br> The Enclave is arguably the most technologically advanced faction in the Equestrian Wasteland. <br> They take pride in being the only pure race of ponies left after the war and are made up exclusively of Pegasi. <br> Their civilization above the clouds, maintained by the S.P.P. towers, is strictly regulated, allowing families to have a limited number of foals at any given time to ensure that they do not overpopulate. "
 	preview_image = 'html/factions/enclave.png'
 	head_status = "colonel"
 	flags = HAVE_FREQ
@@ -301,8 +301,8 @@ mob/proc/set_faction(var/faction)
 	id = "ncr"
 	color = "#020080"
 	flags = HAVE_FREQ | HAVE_FLAG
-	full_name = "New California Republic"
-	description = "<b>Alignment: Lawful Good</b><br>The New California Republic, or simply the NCR - A large, democratic federation with a massive population based in California, with holdings in other States.<br>The NCR emphasizes and claims to support a myriad of old world values, such as democracy, personal liberty, and the rule of law.<br>It also strives to restore general order to the wasteland through improvements to and development of infrastructure and economic systems, as well as basic common peace between people."
+	full_name = "New Canterlot Republic"
+	description = "<b>Alignment: Lawful Good</b><br>The New Canterlot Republic, or simply the NCR - A large, democratic federation with a massive population based in Down Canterlot, with holdings in other States.<br>The NCR emphasizes and claims to support a myriad of old world values, such as democracy, personal liberty, and the rule of law.<br>It also strives to restore general order to the wasteland through improvements to and development of infrastructure and economic systems, as well as basic common peace between people."
 	preview_image = 'html/factions/ncr.png'
 	head_status = "ncr_general"
 	verbs = list(/mob/proc/begin_head_voting)
@@ -336,7 +336,7 @@ mob/proc/set_faction(var/faction)
 	color = "#005A20"
 	id = "followers"
 	full_name = "Followers of the Appocalypse"
-	description = "<b>Alignment: Neutral Good</b><br>The Followers of the Apocalypse, or simply the Followers - A post-War organization whose goal is to tend to the inhabitants of the wasteland, as well as to ensure that the horrors of the Great War are never to be repeated.<br>To that end, they serve as keepers of knowledge, a position which provides them with the skills they need to carry out their mission.<br>They don't follow a single Great Leader, but instead a handful of independent Leaders for each group."
+	description = "<b>Alignment: Neutral Good</b><br>The Followers of the Apocalypse, or simply the Followers - A post-War organization whose goal is to tend to the inhabitants of the wasteland, as well as to ensure that the horrors of the Great War are never to be repeated.<br>To that end, they serve as keepers of knowledge, a position which provides them with the skills they need to carry out their mission.<br>Their leader is Velvet Remedy, but instead a handful of independent Leaders for each group."
 	preview_image = 'html/factions/followers.png'
 	head_status = "leader"
 	area = /area/f13/followers
@@ -346,10 +346,10 @@ mob/proc/set_faction(var/faction)
 	name = "Vault"
 	color = "#005A20"
 	id = "vault"
-	full_name = "Vault-Tec Corporation"
-	description = "<b>Alignment: True Neutral</b><br>The Vault-Tec Corporation, or simply the VTC - A former company contracted by the United States government before the Great War to design and produce the Vault system, a vast network of complex fallout and research shelters.<br>When the bombs fell, thousands of carefully-selected Vault dwellers were sealed within the safe confinement of the Vaults, and their lucky descendants have (mostly) lived to the present day."
+	full_name = "Stable-Tec Corporation"
+	description = "<b>Alignment: True Neutral</b><br>The Stable-Tec Corporation, or simply the STC - A former company contracted by the Equestrian government before the Great War to design and produce the Stable system, a vast network of complex fallout and research shelters.<br>When the bombs fell, thousands of carefully-selected Stable dwellers were sealed within the safe confinement of the Stables, and their lucky descendants have (mostly) lived to the present day."
 	preview_image = 'html/factions/vault.png'
-	head_status = "overseer"
+	head_status = "overmare"
 	verbs = list(/mob/proc/begin_head_voting)
 	area = /area/f13/vault
 	karma = 15
@@ -367,11 +367,11 @@ mob/proc/set_faction(var/faction)
 //	craft_recipes = list(/datum/table_recipe/den_encryption_key)
 
 /datum/f13_faction/coc
-	name = "The Children of the Cathedral"
+	name = "Unity"
 	color = "#204200"
 	id = "coc"
-	full_name = "The Children of the Cathedral"
-	description = "<b>Alignment: Lawful Evil</b><br>The Children of the Cathedral was the religious branch of the Unity, a widespread religious cult that the Master established as a cover for his activities and to spread his philosophy."
+	full_name = "The Great and Powerful Unity"
+	description = "<b>Alignment: Lawful Evil</b><br>The Children of the Cathedral was the religious branch of the Unity, a widespread religious cult that the Trixie established as a cover for his activities and to spread her philosophy."
 	preview_image = 'html/factions/coc.png'
 	head_status = "preacher"
 	verbs = list(/mob/proc/begin_head_voting)
