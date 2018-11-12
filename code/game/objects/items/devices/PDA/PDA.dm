@@ -5,8 +5,8 @@ var/global/list/obj/item/device/pda/PDAs = list()
 
 
 /obj/item/device/pda
-	name = "\improper PDA"
-	desc = "A portable microcomputer by Thinktronic Systems, LTD. Functionality determined by a preprogrammed ROM cartridge."
+	name = "\improper PicpBuck"
+	desc = "A portable microcomputer by Stable-Tec. Functionality determined by a preprogrammed ROM cartridge."
 	icon = 'icons/obj/pda.dmi'
 	icon_state = "pda"
 	item_state = "electronic"
@@ -38,7 +38,7 @@ var/global/list/obj/item/device/pda/PDAs = list()
 	var/lock_code = "" // Lockcode to unlock uplink
 	var/honkamt = 0 //How many honks left when infected with honk.exe
 	var/mimeamt = 0 //How many silence left when infected with mime.exe
-	var/note = "Congratulations, your station has chosen the Thinktronic 5230 Personal Data Assistant!" //Current note in the notepad function
+	var/note = "Congratulations, this is your personal assistant!" //Current note in the notepad function
 	var/notehtml = ""
 	var/notescanned = 0 // True if what is in the notekeeper was from a paper.
 	var/cart = "" //A place to stick cartridge menu information
@@ -68,7 +68,7 @@ var/global/list/obj/item/device/pda/PDAs = list()
 	update_icon()
 
 /obj/item/device/pda/proc/update_label()
-	name = "PDA-[owner] ([ownjob])" //Name generalisation
+	name = "Pipbuck-[owner] ([ownjob])" //Name generalisation
 
 /obj/item/device/pda/GetAccess()
 	if(id)
@@ -131,13 +131,13 @@ var/global/list/obj/item/device/pda/PDAs = list()
 	else
 		switch (mode)
 			if (0)
-				dat += "<h2>PERSONAL DATA ASSISTANT v.1.2</h2>"
+				dat += "<h2>PIPBUCK OS v.2.6</h2>"
 				dat += "Owner: [owner], [ownjob]<br>"
 				dat += text("ID: <A href='?src=\ref[src];choice=Authenticate'>[id ? "[id.registered_name], [id.assignment]" : "----------"]")
 				dat += text("<br><A href='?src=\ref[src];choice=UpdateInfo'>[id ? "Update PDA Info" : ""]</A><br><br>")
 
 				dat += "[worldtime2text()]<br>" //:[world.time / 100 % 6][world.time / 100 % 10]"
-				dat += "[time2text(world.realtime, "MMM DD")] [year_integer+540]"
+				dat += "[time2text(world.realtime, "MMM DD")] [year_integer+200]"
 
 				dat += "<br><br>"
 
@@ -211,7 +211,7 @@ var/global/list/obj/item/device/pda/PDAs = list()
 				dat += "</ul>"
 
 			if (1)
-				dat += "<h4><img src=pda_notes.png> Notekeeper V2.2</h4>"
+				dat += "<h4><img src=pda_notes.png> Notekeeper V4.2</h4>"
 				dat += "<a href='byond://?src=\ref[src];choice=Edit'>Edit</a><br>"
 				if(notescanned)
 					dat += "(This is a scanned image, editing it may cause some text formatting to change.)<br>"
