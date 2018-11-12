@@ -5,11 +5,11 @@ var/global/list/obj/item/device/pda/PDAs = list()
 
 
 /obj/item/device/pda
-	name = "\improper PicpBuck"
+	name = "\improper PipBuck"
 	desc = "A portable microcomputer by Stable-Tec. Functionality determined by a preprogrammed ROM cartridge."
 	icon = 'icons/obj/pda.dmi'
 	icon_state = "pda"
-	item_state = "electronic"
+	item_state = "pipbuck"
 	flags = NOBLUDGEON
 	w_class = WEIGHT_CLASS_TINY
 	slot_flags = SLOT_ID | SLOT_BELT
