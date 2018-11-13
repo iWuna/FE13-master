@@ -34,8 +34,8 @@
 	icon_state = "short_mane3"
 
 /datum/sprite_accessory/hair/crew
-	name = "Crewcut"
-	icon_state = "hair_crewcut"
+	name = "Vinyl Scratch"
+	icon_state = "vinyl_mane"
 
 /datum/sprite_accessory/hair/sargeant
 	name = "Flat Top"
