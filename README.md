@@ -1,10 +1,8 @@
-## Fallout 13
-
-**Website:** https://www.reddit.com/r/Fallout13
+## Fallout Equestria 13
 
 **Main source code:** https://gitlab.com/KoBRaAndrey/F13
 
-**Discord:**  https://discord.me/fallout13official
+**Discord:**  https://discord.gg/vkp7T7c
 
 ## Terms of service
 
@@ -16,8 +14,8 @@ If you desire to host your own server based of Fallout 13 source code - you may 
 
 *The only Fallout 13 communities that are considered official at the moment are specified as:*
 
-1. [EN] Fallout 13 - Vault One
-2. [RU] Fallout 13 - CBET ATOMA ( Light of the Atom )
+1. [INTERNATIONAL] Fallout Equestria 13 - Pony Journey
+2. [RU] Fallout 13 - Advanced. (XP, LEVELS, PERKS, SPECIAL, KARMA, WEAPON MODIFICATIONS, ZONE CONTROL, NO DONATE)
 
 **By our terms and conditions we require any potential host to specify that they are an unofficial server in announcements and the Byond HUB.**
 
@@ -27,11 +25,11 @@ Stated terms of service fully comply with the original AGPL v3 license of /tg/ S
 
 **Code:**
 
-Jackerzz aka Maxyo, KoBRaAndrey, Mattroks101, Godsring, Sarumyn, ChowderMcArthor, Tmad40blue, Pahomlancer, KorPhaeron, RemieRichards, WB, AnturK, BartNixon, A3lex33, Gyaviste, Hold_Me_Please.
+Jackerzz aka Maxyo, KoBRaAndrey, Mattroks101, Godsring, Sarumyn, ChowderMcArthor, Tmad40blue, Pahomlancer, KorPhaeron, RemieRichards, WB, AnturK, BartNixon, A3lex33, Gyaviste, Hold_Me_Please, iWuna, Unbbiden
 
 **Graphics / Sprites / Icons:**
 
-Ivan_mrr, Nienhaus, Llego_man007, WalterJe, Danowar, Superballs, Fo4an, Hankkits, MrSnapwalk, BartNixon, Uboaaaaaa, BlackJack22, Nikston, Omen111, Talamus, The_Harvester, Lydee, Murmillo, HITHISISFRONK, DoctorWho08, Alexlox, Zhuppa.
+Ivan_mrr, Nienhaus, Llego_man007, WalterJe, Danowar, Superballs, Fo4an, Hankkits, MrSnapwalk, BartNixon, Uboaaaaaa, BlackJack22, Nikston, Omen111, Talamus, The_Harvester, Lydee, Murmillo, HITHISISFRONK, DoctorWho08, Alexlox, Zhuppa, iWuna, Woozi.
 
 **Ideas / Testing / Support:**
 Deus66
@@ -65,10 +63,16 @@ You can download zip archive with unedited music tracks here:
 
 [click](http://www.mediafire.com/download/fdlmc67zwwyw26d/Fallout13OST.zip)
 
+Also Fallout Equestria music is:
+1. SkyBolt - 99 Problems
+2. Wasteland Wailers - Fly Like You
+3. Novaking - Boulevard of Broken Dreams
+4. Love Me Cherelee (Fallout Equestria performed)
+
 ## Disclaimer
 
-**Note: This is not associated with Bethesda Softworks in any way! Fallout 13 is neither a trademark, nor a commercial product.
-2017 Bethesda Softworks LLC. Trademarks belong to their respective owners.**
+**Note: This is not associated with Bethesda Softworks in any way! Fallout Equestria 13 is neither a trademark, nor a commercial product.
+2019 Bethesda Softworks LLC. Trademarks belong to their respective owners.**
 
 ## LICENSE
 
