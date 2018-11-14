@@ -177,3 +177,10 @@
 	cold_protection = FEET
 	min_cold_protection_temperature = SHOES_MIN_TEMP_PROTECT
 	self_weight = 1
+
+/obj/item/clothing/shoes/f13/horseshoe
+	name = "Horse shoe"
+	desc = "Old-good pairs of horshoes."
+	item_state = "horseshoe"
+	flags = NOSLIP
+	self_weight = 1
