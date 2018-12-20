@@ -4,7 +4,7 @@
 //Handcuffs
 
 /obj/item/weapon/restraints/handcuffs
-	name = "handcuffs"
+	name = "hoofcuffs"
 	desc = "Use this to keep prisoners in line."
 	gender = PLURAL
 	icon = 'icons/obj/items.dmi'
@@ -45,7 +45,7 @@
 			playsound(loc, cuffsound, 30, 1, -2)
 			if(do_mob(user, C, 30) && (C.get_num_arms() >= 2 || C.get_arm_ignore()))
 				apply_cuffs(C,user)
-				to_chat(user, "<span class='notice'>You handcuff [C].</span>")
+				to_chat(user, "<span class='notice'>You hoofcuff [C].</span>")
 				if(istype(src, /obj/item/weapon/restraints/handcuffs/cable))
 					feedback_add_details("handcuffs","C")
 				else
@@ -53,7 +53,7 @@
 
 				add_logs(user, C, "handcuffed")
 			else
-				to_chat(user, "<span class='warning'>You fail to handcuff [C]!</span>")
+				to_chat(user, "<span class='warning'>You fail to hoofcuff [C]!</span>")
 		else
 			to_chat(user, "<span class='warning'>[C] doesn't have two hands...</span>")
 
@@ -167,8 +167,8 @@
 	breakouttime = 10 //Deciseconds = 1s
 
 /obj/item/weapon/restraints/handcuffs/fake/kinky
-	name = "kinky handcuffs"
-	desc = "Fake handcuffs meant for erotic roleplay."
+	name = "kinky hoofcuffs"
+	desc = "Fake hoofcuffs meant for erotic roleplay."
 	icon_state = "handcuffGag"
 
 /obj/item/weapon/restraints/handcuffs/cable/attackby(obj/item/I, mob/user, params)
@@ -239,7 +239,7 @@
 //Legcuffs
 
 /obj/item/weapon/restraints/legcuffs
-	name = "leg cuffs"
+	name = "back hoof cuffs"
 	desc = "Use this to keep prisoners in line."
 	gender = PLURAL
 	icon = 'icons/obj/items.dmi'
@@ -334,7 +334,7 @@
 
 /obj/item/weapon/restraints/legcuffs/bola
 	name = "makeshift bola"
-	desc = "A restraining device designed to be thrown at the target. Upon connecting with said target, it will wrap around their legs, making it difficult for them to move quickly."
+	desc = "A restraining device designed to be thrown at the target. Upon connecting with said target, it will wrap around their hoofs, making it difficult for them to move quickly."
 	icon = 'icons/fallout/objects/melee.dmi'
 	icon_state = "bola"
 	breakouttime = 30//easy to apply, easy to break out of
@@ -369,7 +369,7 @@
 
 /obj/item/weapon/restraints/legcuffs/bola/tribal
 	name = "reinforced bola"
-	desc = "A strong bola, made by elderly tribal craftsman. It looks heavy, enough so that it could trip somebody."
+	desc = "A strong bola, made by elderly tribal craftsman. It looks heavy, enough so that it could trip somepony."
 	icon_state = "bola_t"
 	breakouttime = 100 //Way harder to break out of
 	throwforce = 10
