@@ -501,7 +501,7 @@
 	category = list("hacked", "Tools")
 
 /datum/design/handcuffs
-	name = "Handcuffs"
+	name = "Hoofcuffs"
 	id = "handcuffs"
 	build_type = AUTOLATHE
 	materials = list(MAT_METAL = 500)
