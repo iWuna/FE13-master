@@ -2,7 +2,7 @@
 
 /mob/living/simple_animal/hostile/ghoul
 	name = "feral ghoul"
-	desc = "Have you ever seen a living ghoul before?<br>Ghouls are necrotic post-humans - decrepit, rotting, zombie-like mutants."
+	desc = "Have you ever seen a living ghoul before?<br>Ghouls are necrotic post-ponies - decrepit, rotting, zombie-like mutants."
 	icon = 'icons/fallout/mobs/animal.dmi'
 	icon_state = "retro_ghoul"
 	icon_living = "retro_ghoul"

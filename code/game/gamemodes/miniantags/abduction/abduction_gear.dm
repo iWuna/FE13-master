@@ -437,7 +437,7 @@ Congratulations! You are now trained for xenobiology research!"}
 
 /obj/item/weapon/restraints/handcuffs/energy
 	name = "hard-light energy field"
-	desc = "A hard-light field restraining the hands."
+	desc = "A hard-light field restraining the hoofs."
 	icon_state = "cuff_white" // Needs sprite
 	breakouttime = 450
 	trashtype = /obj/item/weapon/restraints/handcuffs/energy/used

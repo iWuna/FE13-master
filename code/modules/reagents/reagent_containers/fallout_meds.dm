@@ -1,7 +1,7 @@
 //Fallout 13 syringes by Gargule
 /obj/item/weapon/reagent_containers/f13stimpack //(Gargule)
-	name = "Stimpack"
-	desc = "A stimpak, or stimulation delivery package, is a type of hand-held medication used for healing the body. This item consists of a syringe for containing and delivering the medication and a gauge for measuring the status of the stimpak's contents. When the medicine is injected, it provides immediate healing of the body's minor wounds."
+	name = "Healing Potion"
+	desc = "A healing potion, is a type of hand-held medication used for healing the body. When the medicine is drinked, it provides immediate healing of the body's minor wounds."
 	icon = 'icons/fallout/objects/medicine/syringe.dmi'
 	icon_state = "stim"
 	item_state = "medipen"
@@ -83,8 +83,8 @@
 
 
 /obj/item/weapon/reagent_containers/f13stimpack/super
-	name = "SuperStimpack"
-	desc = "The super version of the Stimpak has an additional vial containing more powerful drugs than the basic model, as well as a leather belt to strap the needle to the injured limb."
+	name = "Big Healing Potion"
+	desc = "The super version of the Healing Potion has an additional vial containing more powerful drugs than the basic model, as well as a leather belt to strap the needle to the injured limb."
 	icon_state = "superstim"
 	volume = 12
 	price = 2000

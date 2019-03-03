@@ -181,6 +181,7 @@
 /obj/item/clothing/shoes/f13/horseshoe
 	name = "Horse shoe"
 	desc = "Old-good pairs of horshoes."
-	item_state = "horseshoe"
+	icon = 'icons/fallout/clothing/shoes.dmi'
+	icon_state = "horseshoe"
 	flags = NOSLIP
 	self_weight = 1
