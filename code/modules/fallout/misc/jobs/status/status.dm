@@ -275,14 +275,14 @@ mob/proc/set_status(var/status)
 //Vault
 
 /datum/status/overseer
-	name = "Overseer"
+	name = "Overmare"
 	id = "overseer"
 	can_invite_to = list("dweller")
 	purge_faction = "vault"
 	color = "#005A20"
 
 /datum/status/dweller
-	name = "Vault Dweller"
+	name = "Stable Dweller"
 	id = "dweller"
 	purge_faction = "vault"
 	color = "#005A20"
@@ -356,14 +356,14 @@ mob/proc/set_status(var/status)
 
 // FOB
 /datum/status/overseer
-	name = "Overseer"
+	name = "Overmare"
 	id = "overseer"
 	can_invite_to = list("dweller")
 	purge_faction = "vault"
 	color = "#005A20"
 
 /datum/status/dweller
-	name = "Vault Dweller"
+	name = "Stable Dweller"
 	id = "dweller"
 	purge_faction = "vault"
 	color = "#005A20"
