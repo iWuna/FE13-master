@@ -15,7 +15,7 @@ If you desire to host your own server based of Fallout 13 source code - you may 
 *The only Fallout 13 communities that are considered official at the moment are specified as:*
 
 1. [INTERNATIONAL] Fallout Equestria 13 - Pony Journey
-2. [RU] Fallout 13 - Advanced. (XP, LEVELS, PERKS, SPECIAL, KARMA, WEAPON MODIFICATIONS, ZONE CONTROL, NO DONATE)
+2. [RU] Fallout Equestria 13
 
 **By our terms and conditions we require any potential host to specify that they are an unofficial server in announcements and the Byond HUB.**
 
