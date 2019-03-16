@@ -10,7 +10,7 @@
 	status = "colonel"
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "the Enclave command HQ"
+	supervisors = "the Pegasus Enclave command HQ"
 	selection_color = "#ec9d9d"
 	minimal_player_age = 31
 	whitelist_on = 1
@@ -52,9 +52,8 @@
 	name = "Colonel"
 	backpack = null
 	satchel = null
-	gloves = /obj/item/clothing/gloves/f13/military
 	uniform = /obj/item/clothing/under/f13/enclave_officer
-	shoes = /obj/item/clothing/shoes/f13/military
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/f13/autumn
 	belt = /obj/item/weapon/storage/belt/military/army/enclave
 	weapon = /obj/item/weapon/gun/energy/plasma/glock
@@ -117,9 +116,8 @@
 	name = "Enclave Segeant"
 	backpack = null
 	satchel = null
-	gloves = /obj/item/clothing/gloves/f13/military
 	uniform = /obj/item/clothing/under/f13/enclave_officer
-	shoes = /obj/item/clothing/shoes/f13/military
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = null
 	head = /obj/item/clothing/head/soft/f13/enclave
 	belt = /obj/item/weapon/storage/belt/military/army/enclave
@@ -179,9 +177,8 @@
 	name = "Enclave Private"
 	backpack = null
 	satchel = null
-	gloves = /obj/item/clothing/gloves/f13/military
 	uniform = /obj/item/clothing/under/f13/dbdu
-	shoes = /obj/item/clothing/shoes/f13/military
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	head = /obj/item/clothing/head/soft/f13/utility/tan
 	belt = /obj/item/weapon/storage/belt/military/army/enclave
 	weapon = /obj/item/weapon/gun/energy/plasma

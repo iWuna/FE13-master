@@ -57,7 +57,7 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/combat
-	shoes = /obj/item/clothing/shoes/f13/military
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/f13/elder
 	weapon = /obj/item/weapon/gun/energy/laser/pistol
 	belt = /obj/item/weapon/storage/belt/military/army
@@ -115,9 +115,8 @@
 	name = "Paladin"
 	backpack = null
 	satchel = null
-	gloves = /obj/item/clothing/gloves/f13/military
 	uniform = /obj/item/clothing/under/f13/combat
-	shoes = /obj/item/clothing/shoes/f13/military
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/armor/f13/power_armor/t51b
 	head = /obj/item/clothing/head/helmet/power_armor/t51b
 	belt = /obj/item/weapon/storage/belt/military/army
@@ -129,7 +128,7 @@
 
 /datum/job/knight
 	title = "Knight"
-	desc = "A warrior, the keeper of peace.<br>You are the one who shall bring justice."
+	desc = "A warrior, the keeper of Toasters.<br>You are the one who shall bring justice."
 	flag = KNIGHT
 	department_head = list("elder", "paladin")
 	department_flag = ENGSEC
@@ -176,9 +175,8 @@
 	name = "Knight"
 	backpack = null
 	satchel = null
-	gloves = /obj/item/clothing/gloves/f13/military
 	uniform = /obj/item/clothing/under/f13/combat
-	shoes = /obj/item/clothing/shoes/f13/military
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/armor/f13/combat_mk1
 	head = /obj/item/clothing/head/helmet/f13/combat_mk1
 	belt = /obj/item/weapon/storage/belt/military/army
@@ -230,7 +228,7 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/combat
-	shoes = /obj/item/clothing/shoes/f13/tan
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/f13/scribe
 	belt = /obj/item/weapon/storage/belt/military/army
 	belt_contents = list(/obj/item/device/radio = 1)

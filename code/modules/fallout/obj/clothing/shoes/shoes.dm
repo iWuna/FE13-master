@@ -184,4 +184,6 @@
 	icon = 'icons/fallout/clothing/shoes.dmi'
 	icon_state = "horseshoe"
 	flags = NOSLIP
+	cold_protection = FEET
+	heat_protection = FEET
 	self_weight = 1

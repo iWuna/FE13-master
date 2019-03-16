@@ -397,7 +397,7 @@
 	animal_origin = LARVA_BODYPART
 
 /obj/item/bodypart/l_arm
-	name = "left arm"
+	name = "left hoof"
 	desc = "Did you know that the word 'sinister' stems originally from the \
 		Latin 'sinestra' (left hand), because the left hand was supposed to \
 		be possessed by the devil? This arm appears to be possessed by no \
@@ -433,9 +433,9 @@
 	animal_origin = DEVIL_BODYPART
 
 /obj/item/bodypart/r_arm
-	name = "right arm"
-	desc = "Over 87% of humans are right handed. That figure is much lower \
-		among humans missing their right arm."
+	name = "right hoof"
+	desc = "Over 87% of pony are right hoofed. That figure is much lower \
+		among ponies missing their right arm."
 	icon_state = "default_human_r_arm"
 	attack_verb = list("slapped", "punched")
 	max_damage = 40
@@ -467,7 +467,7 @@
 	animal_origin = DEVIL_BODYPART
 
 /obj/item/bodypart/l_leg
-	name = "left leg"
+	name = "left back hoof"
 	desc = "Some athletes prefer to tie their left shoelaces first for good \
 		luck. In this instance, it probably would not have helped."
 	icon_state = "default_human_l_leg"
@@ -503,7 +503,7 @@
 	animal_origin = DEVIL_BODYPART
 
 /obj/item/bodypart/r_leg
-	name = "right leg"
+	name = "right back hoof"
 	desc = "You put your right leg in, your right leg out. In, out, in, out, \
 		shake it all about. And apparently then it detaches.\n\
 		The hokey pokey has certainly changed a lot since space colonisation."

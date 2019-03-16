@@ -50,7 +50,7 @@
 	glasses = /obj/item/clothing/glasses/sunglasses
 	r_pocket = /obj/item/device/pda/captain
 	uniform = /obj/item/clothing/under/f13/vault/v13
-	shoes = /obj/item/clothing/shoes/sneakers/brown
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 
 /datum/job/dweller
 	title = "Dweller"
@@ -97,5 +97,5 @@
 	uniform = /obj/item/clothing/under/f13/vault/v13
 	id = /obj/item/weapon/card/id
 	r_pocket = /obj/item/device/pda
-	shoes = /obj/item/clothing/shoes/sneakers/brown
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 

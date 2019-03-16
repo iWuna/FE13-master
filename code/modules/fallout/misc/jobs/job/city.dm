@@ -19,9 +19,7 @@
 	allowed_packs = list("starter", "cigarettes", "follower", "team_fortress", "wardrobe", "vault13", "bard", "khan", "super_ten", "punk", "off", "madmax", "doom")
 
 	required_items = list(
-	/obj/item/clothing/shoes/f13/brownie,
-	/obj/item/clothing/shoes/f13/tan,
-	/obj/item/clothing/shoes/f13/cowboy,
+	/obj/item/clothing/shoes/f13/horseshoe,
 	/obj/item/clothing/under/f13/manager,
 	/obj/item/clothing/under/suit_jacket,
 	/obj/item/clothing/under/suit_jacket/really_black,
@@ -64,7 +62,7 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/formal
-	shoes = /obj/item/clothing/shoes/laceup
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = null
 	head = /obj/item/clothing/head/f13/beaver
 
@@ -118,7 +116,7 @@
 /datum/outfit/job/sheriff
 	name = "Sheriff"
 	uniform = /obj/item/clothing/under/f13/cowboyb
-	shoes = /obj/item/clothing/shoes/f13/cowboy
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/f13/sheriff
 	head = /obj/item/clothing/head/f13/cowboy
 	weapon = /obj/item/weapon/gun/ballistic/revolver/magnum
@@ -145,8 +143,7 @@
 	allowed_packs = list("starter", "cigarettes", "follower", "team_fortress", "wardrobe", "vault13", "bard", "khan", "super_ten", "punk", "off", "madmax", "doom")
 
 	required_items = list(
-	/obj/item/clothing/shoes/f13/tan,
-	/obj/item/clothing/shoes/f13/cowboy,
+	/obj/item/clothing/shoes/f13/horseshoe,
 	/obj/item/clothing/under/f13/cowboyg,
 	/obj/item/clothing/under/f13/cowboyb,
 	/obj/item/clothing/suit/f13/cowboygvest,
@@ -169,4 +166,4 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/cowboyt
-	shoes = /obj/item/clothing/shoes/f13/brownie
+	shoes = /obj/item/clothing/shoes/f13/horseshoe

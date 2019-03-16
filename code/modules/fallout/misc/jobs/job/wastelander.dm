@@ -22,7 +22,7 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/settler
-	shoes = /obj/item/clothing/shoes/f13/rag
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 
 //Adventurer
 
@@ -44,8 +44,7 @@
 	allowed_packs = list("starter", "cigarettes", "follower", "team_fortress", "wardrobe", "vault13", "bard", "khan", "super_ten", "punk", "off", "madmax", "doom")
 
 	required_items = list(
-	/obj/item/clothing/shoes/f13/brownie,
-	/obj/item/clothing/gloves/f13/leather,
+	/obj/item/clothing/shoes/f13/horseshoe,
 	/obj/item/clothing/under/f13/female/mercadv,
 	/obj/item/clothing/under/f13/merccharm,
 	/obj/item/clothing/under/f13/female/merccharm,
@@ -57,7 +56,7 @@
 	)
 
 	denied_items = list(
-	/obj/item/clothing/shoes/f13/rag,
+	/obj/item/clothing/shoes/f13/horseshoe,
 	/obj/item/clothing/under/pants/f13/ghoul,
 	/obj/item/clothing/under/pants/f13/cloth,
 	/obj/item/clothing/under/pants/f13/caravan,
@@ -75,7 +74,7 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/mercadv
-	shoes = /obj/item/clothing/shoes/f13/tan
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 
 //Mercenary
 
@@ -97,9 +96,7 @@
 	allowed_packs = list("starter", "cigarettes", "follower", "team_fortress", "wardrobe", "vault13", "bard", "khan", "super_ten", "punk", "off", "madmax", "doom")
 
 	required_items = list(
-	/obj/item/clothing/shoes/f13/tan,
-	/obj/item/clothing/gloves/f13/leather,
-	/obj/item/clothing/gloves/f13/military,
+	/obj/item/clothing/shoes/f13/horseshoe,
 	/obj/item/clothing/under/f13/mercadv,
 	/obj/item/clothing/under/f13/female/mercadv,
 	/obj/item/clothing/under/f13/female/merccharm,
@@ -122,7 +119,7 @@
 	)
 
 	denied_items = list(
-	/obj/item/clothing/shoes/f13/rag,
+	/obj/item/clothing/shoes/f13/horseshoe,
 	/obj/item/clothing/under/pants/f13/ghoul,
 	/obj/item/clothing/under/pants/f13/cloth,
 	/obj/item/clothing/under/pants/f13/caravan,
@@ -140,7 +137,7 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/merccharm
-	shoes = /obj/item/clothing/shoes/f13/military
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/f13/veteran
 	head = null
 	belt = /obj/item/weapon/storage/belt/military/army
@@ -186,7 +183,7 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/tribal
-	shoes = /obj/item/clothing/shoes/f13/rag
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 
 /datum/job/arroyoe
 	title = "Arroyo elder"
@@ -221,4 +218,4 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/tribalshaman
-	shoes = /obj/item/clothing/shoes/f13/rag
+	shoes = /obj/item/clothing/shoes/f13/horseshoe

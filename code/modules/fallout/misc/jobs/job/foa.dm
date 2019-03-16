@@ -2,7 +2,7 @@
 
 /datum/job/follower
 	title = "Follower"
-	desc = "The Followers of the Apocalypse, or simply the Followers, are a faction based in New California and have established their presence in the Mojave Wasteland. Their goal is to tend to the inhabitants of the wasteland, as well as to ensure that the horrors of the Great War are never to be repeated."
+	desc = "The Followers of the Apocalypse, or simply the Followers, are a faction based in Ponyville and have established their presence in the Frienship City. Their goal is to tend to the inhabitants of the wasteland, as well as to ensure that the horrors of the Great War are never to be repeated."
 	flag = AFOLLOWER
 	department_head = list("Common sense")
 	department_flag = FOA
@@ -28,9 +28,8 @@
 /datum/outfit/job/follower
 	name = "Follower"
 	belt = /obj/item/weapon/storage/belt/medical
-	gloves = /obj/item/clothing/gloves/color/latex
 	uniform = /obj/item/clothing/under/f13/doctor
-	shoes = /obj/item/clothing/shoes/laceup
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/toggle/labcoat/f13/followers
 	glasses = /obj/item/clothing/glasses/regular
 	belt_contents = list(/obj/item/weapon/reagent_containers/f13stimpack = 4, \

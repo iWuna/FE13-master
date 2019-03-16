@@ -19,9 +19,7 @@
 	allowed_packs = list("starter", "cigarettes", "follower", "team_fortress", "vault13", "bard", "khan", "super_ten", "punk", "off", "madmax", "doom")
 
 	required_items = list(
-	/obj/item/clothing/shoes/f13/military,
-	/obj/item/clothing/shoes/f13/brownie,
-	/obj/item/clothing/shoes/f13/tan,
+	/obj/item/clothing/shoes/f13/horseshoe,
 	/obj/item/clothing/glasses/f13/biker,
 	/obj/item/clothing/under/suit_jacket,
 	/obj/item/clothing/suit/armor/f13/chestplate,
@@ -115,7 +113,7 @@
 	backpack = null
 	satchel = null
 	uniform = /obj/item/clothing/under/f13/rag
-	shoes = /obj/item/clothing/shoes/f13/rag
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/armor/f13/supafly
 	head = /obj/item/clothing/head/helmet/f13/supaflyhelmet
 

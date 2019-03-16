@@ -216,7 +216,7 @@ mob/proc/set_faction(var/faction)
 	head_status = "mayor"
 	preview_image = 'html/factions/city.png'
 	full_name = "City Dwellers"
-	description = "<b>Alignment: Lawful Neutral</b><br>City dwellers - A group of wastelanders that have holed up in the town to wait out the worst and hope for the best.<br>As the City evolved, its citizens became different from the rest of the Wasteland dwellers - they value the safety of a city, prefer better food and clothing, and mostly trust the elected Mayor - even if the decisions made are not the best.<br><i>In Mayor We Trust!</i>"
+	description = "<b>Alignment: Lawful Neutral</b><br>City dwellers - A group of ponies that have holed up in the town to wait out the worst and hope for the best.<br>As the City evolved, its citizens became different from the rest of the Wasteland dwellers - they value the safety of a city, prefer better food and clothing, and mostly trust the elected Mayor - even if the decisions made are not the best.<br><i>In Mayor We Trust!</i>"
 	flags = HAVE_FREQ
 	area = /area/f13/city
 	verbs = list(/mob/proc/begin_head_voting)
@@ -229,7 +229,7 @@ mob/proc/set_faction(var/faction)
 	head_status = "gangleader"
 	preview_image = 'html/factions/raider.png'
 	full_name = "Raider Gang"
-	description = "<b>Alignment: Chaotic Evil</b><br>Raiders - Any group of ponies who pillage, plunder, murder, or otherwise ruin the day of anyone unfortunate enough to not be one of them.<br>Raiders tend to organize into loose confederations of gangs in the post-apocalyptic wasteland, and are a constant problem.<br>Raiders typically prey upon travelers and very small towns, leaving more populous or larger areas alone."
+	description = "<b>Alignment: Chaotic Evil</b><br>Raiders - Any group of ponies who pillage, plunder, murder, or otherwise ruin the day of anyone unfortunate enough to not be one of them.<br>Raiders tend to organize into loose confederations of gangs in the post-apocalyptic Equestria, and are a constant problem.<br>Raiders typically prey upon travelers and very small towns, leaving more populous or larger areas alone."
 	verbs = list(/mob/proc/begin_head_voting)
 	area = /area/f13/raiders
 	karma = -10
@@ -261,10 +261,10 @@ mob/proc/set_faction(var/faction)
 	verbs = list(/mob/proc/begin_head_voting)
 	karma = 10
 	welcome_text = "Your current objectives are:<br>\
-1. � �������� ���� ������ �������������� ������� �� ������ �������� � �������, ���� �� �� ������� ������, ������� ���� � ���!<br>\
-2. �������� � ���� ������������ - ������ > ������ > ������� > ����������. ������ > ������� > ����������. �������� ���� ���������, ���� � �������� ���������� ������� ������������� ������� ����! <br>\
-3. �����, � ������, ������ �������� - ����� ���������� � ������ � ��������, �� ��, ������ ������� ����� � ���� �������, �������������, �� ��� �� ������ �� ���������� ����������, �������, ������ � ����� ����� ���������� �� ��������� ���!<br>\
-4. �� �� ������ �������� ���������, � ������� ������ ������� ����� ������������, ������ ������������ ����������, ������ ��� � ���������� ������� ��� � ������ � ������, �� ������������� �� ������ ����������, �� ������� ��� ���� ����. �������� ���! ���� �� ����� �� ��������, �� �� ������ ���������� ������������ ���� ����������, �������� �� ���� ����������! �� � ���� �� ��� ����������, �������, ��� ������ ������ �� ��� ������ �������� � ������, ���� �� ����� �� ���� ��������.<br>"
+1. Fuck toasters!<br>\
+2. If yiu see Pipbuck, Heck, BRING IT TO YOUR SHED! <br>\
+3. Technology more important than ponies!<br>\
+4. Don't trust Enclave Vol.Corps.<br>"
 
 
 /datum/f13_faction/enclave
@@ -279,11 +279,11 @@ mob/proc/set_faction(var/faction)
 	area = /area/f13/enclave
 	karma = -5
 	verbs = list(/mob/proc/begin_head_voting)
-	welcome_text = "Your current objectives are:rrrrrrr<br>\
-1. ��� ������ �������, �� ���������� � ��������� �������, � ��� �� ������� �������, �� �������� ���� �����! ��� ����� �����!<br>\
-2. ���� ������ �� ���� ���������� ������� � ���� �������� �����, ������ ��, ������ ������������ �������� ������������ ���. ��� �� �����, �� ������ � ���� ����, ����� ������ ����� �� ��������, ���� ��� �������, ������!<br>\
-3. ���������, �������, � ������ - �������� ����������� ���, �� ��������. �� ����� ������� �� ���� ���� ����, �� �� ����� �� ����� � ���� ������� ���!<br>\
-4. � ���������, ���� �� � �������������� - ��� ��� �� ������� �������, ������ ���������� ������ ��� ����������� ������ ������, � ��� ������� ���� ��������, � �� ����������.<br>"
+	welcome_text = "Your current objectives are:<br>\
+1. Protect all pegasus, only if they not Dashite!<br>\
+2. Serve your Heads!<br>\
+3. Don't trust Steel Rangers!<br>\
+4. Kill Littlepip.<br>"
 
 /datum/f13_faction/ahs
 	name = "Hubologists"
@@ -309,15 +309,15 @@ mob/proc/set_faction(var/faction)
 	area = /area/f13/ncr
 	karma = 5
 	welcome_text = "Your current objectives are:<br>\
-1. As an NCR soldier you must uphold the law around the town, exterminate any raiders you see, seek and destroy the Legion members.<br>\
+1. As an NCR soldier you must uphold the law around the town, exterminate any raiders you see, seek and destroy the Red Eye members.<br>\
 2. As an NCR soldier you must protect the innocent from the horrors of the wasteland.<br>\
 3. Your survival is important - you are important to the NCR and we can't afford to lose you!<br>"
 
 /datum/f13_faction/legion
-	name = "Legion"
+	name = "Red Eye Army"
 	head_status = "legate"
-	full_name = "Caesar's Legion"
-	description = "<b>Alignment: Lawful Evil</b><br>Caesar's Legion, or simply the Legion - An autocratic, traditionalist, reactionary slaver society, and a totalitarian dictatorship that is based on the ancient Roman Empire.<br>Its legionaries are a well-organized, culturally insular fighting force.<br>The Legion is first and foremost a slave army, the sole owner of which is Caesar.<br>As a slave army, the Legion maintains a very strict hierarchy with significant division of roles.<br><i>Ave Caesar!</i>"
+	full_name = "Red Eye Legion"
+	description = "<b>Alignment: Lawful Evil</b><br>Red Eye army, or simply the Legion - An autocratic, traditionalist, reactionary slaver society, and a totalitarian dictatorship that is based on the ancient Roman Empire.<br>Its legionaries are a well-organized, culturally insular fighting force.<br>The Legion is first and foremost a slave army, the sole owner of which is Caesar.<br>As a slave army, the Legion maintains a very strict hierarchy with significant division of roles.<br><i>Ave Caesar!</i>"
 	preview_image = 'html/factions/legion.png'
 	id = "legion"
 	color = "#C24D44"
@@ -343,7 +343,7 @@ mob/proc/set_faction(var/faction)
 	karma = 10
 
 /datum/f13_faction/vault
-	name = "Vault"
+	name = "Stable"
 	color = "#005A20"
 	id = "vault"
 	full_name = "Stable-Tec Corporation"

@@ -2,7 +2,7 @@
 
 /datum/job/general
 	title = "General"
-	desc = "The fate of civilization rests on your shoulders.<br>You were chosen to write history anew.<br>Make a two-headed bear proud."
+	desc = "The fate of civilization rests on your shoulders.<br>You were chosen to write history anew.<br>Make a two-headed Ursa proud."
 	flag = GENERAL
 	department_head = list("NCR Command HQ")
 	department_flag = WASTELAND
@@ -53,7 +53,7 @@
 	id = null
 	gloves = /obj/item/clothing/gloves/f13/military
 	uniform = /obj/item/clothing/under/f13/general
-	shoes = /obj/item/clothing/shoes/laceup
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = null
 	head = /obj/item/clothing/head/f13/sergeant
 	weapon = /obj/item/weapon/gun/ballistic/automatic/assault_rifle
@@ -118,7 +118,7 @@
 	id = null
 	gloves = /obj/item/clothing/gloves/f13/military
 	uniform = /obj/item/clothing/under/f13/ncr_officer
-	shoes = /obj/item/clothing/shoes/f13/military
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/armor/f13/sergeant
 	head = /obj/item/clothing/head/f13/sergeant
 	belt = /obj/item/weapon/storage/belt/military/army
@@ -178,7 +178,7 @@
 	name = "Veteran Ranger"
 	gloves = /obj/item/clothing/gloves/f13/military
 	uniform = /obj/item/clothing/under/f13/mechanic
-	shoes = /obj/item/clothing/shoes/f13/military/light
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/armor/f13/rangercombat
 	head = /obj/item/clothing/head/helmet/f13/ranger
 	belt = /obj/item/weapon/storage/belt/military/assault
@@ -236,7 +236,7 @@
 	name = "Trooper"
 	gloves = /obj/item/clothing/gloves/f13/ncr
 	uniform = /obj/item/clothing/under/f13/ncr
-	shoes = /obj/item/clothing/shoes/f13/military/ncr
+	shoes = /obj/item/clothing/shoes/f13/horseshoe
 	suit = /obj/item/clothing/suit/armor/f13/ncr/soldier
 	head = /obj/item/clothing/head/helmet/f13/trooper
 	glasses = /obj/item/clothing/glasses/f13/biker
