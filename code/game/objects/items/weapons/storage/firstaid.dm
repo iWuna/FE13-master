@@ -25,12 +25,11 @@
 	if(empty) return
 	icon_state = pick("firstaid_1","firstaid_2","firstaid_3","firstaid_4")
 	new /obj/item/stack/medical/gauze(src)
-	new /obj/item/stack/medical/bruise_pack(src)
-	new /obj/item/stack/medical/bruise_pack(src)
+	new /obj/item/weapon/reagent_containers/f13stimpack(src)
+	new /obj/item/weapon/reagent_containers/f13stimpack(src)
 	new /obj/item/stack/medical/ointment(src)
 	new /obj/item/stack/medical/ointment(src)
 	new /obj/item/weapon/reagent_containers/hypospray/medipen(src)
-	new /obj/item/device/healthanalyzer(src)
 	return
 
 /obj/item/weapon/storage/firstaid/fire
