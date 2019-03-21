@@ -56,6 +56,11 @@
 	soundFile =  'sound/f13music/new_vegas_show_bonus_2.ogg'
 	soundLength = 2448
 
+/obj/item/weapon/holodisk/fe13/trottenheimer
+	desc = "A durable laser-readable storage device produced by Ministry of Arcane Science.<br>Based on tape holography technology, it can store information safely for extended periods of time.<br>This particular holodisk contains a pinkie pie voice.<br>An inscription on the side reads \"MrTrottenheimer\""
+	soundFile =  'sound/f13music/pinkie.ogg'
+	soundLength = 12
+
 //One special holodisk can gib the listener or cripple someone else.
 
 /obj/item/weapon/holodisk/cursed

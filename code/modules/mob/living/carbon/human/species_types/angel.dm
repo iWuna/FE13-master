@@ -1,17 +1,28 @@
 /datum/species/angel
 	name = "Pegasus"
-	id = "angel"
+	id = "pegasus"
 	default_color = "FFFFFF"
 	species_traits = list(EYECOLOR,HAIR,FACEHAIR,LIPS)
 	mutant_bodyparts = list("tail_human", "ears", "wings")
 	default_features = list("mcolor" = "FFF", "tail_human" = "None", "ears" = "None", "wings" = "Angel")
 	use_skintones = 1
+	roundstart = 1
 	no_equip = list(slot_back)
-	blacklisted = 1
+	blacklisted = 0
 	limbs_id = "human"
 	skinned_type = /obj/item/stack/sheet/animalhide/human
 
+
 	var/datum/action/innate/flight/fly
+
+/datum/species/angel/qualifies_for_faction(faction_id)
+	if(faction_id == "legion" || faction_id == "city" || faction_id == "vault" || faction_id == "brotherhood" || faction_id == "enclave" || faction_id == "bs")
+		return 0
+	return 1
+
+/datum/species/angel/qualifies_for_rank(rank, list/features)
+	if((!features["tail_human"] || features["tail_human"] == "None") && (!features["ears"] || features["ears"] == "None"))
+		return TRUE	//Pure humans are always allowed in all roles.
 
 /datum/species/angel/on_species_gain(mob/living/carbon/human/H, datum/species/old_species)
 	..()
@@ -49,9 +60,9 @@
 /datum/species/angel/proc/CanFly(mob/living/carbon/human/H)
 	if(H.stat || H.stunned || H.weakened)
 		return 0
-	if(H.wear_suit && ((H.wear_suit.flags_inv & HIDEJUMPSUIT) && (!H.wear_suit.species_exception || !is_type_in_list(src, H.wear_suit.species_exception))))	//Jumpsuits have tail holes, so it makes sense they have wing holes too
-		to_chat(H, "Your suit blocks your wings from extending!")
-		return 0
+//	if(H.wear_suit && ((H.wear_suit.flags_inv & HIDEJUMPSUIT) && (!H.wear_suit.species_exception || !is_type_in_list(src, H.wear_suit.species_exception))))	//Jumpsuits have tail holes, so it makes sense they have wing holes too
+//		to_chat(H, "Your suit blocks your wings from extending!")
+//		return 0
 	var/turf/T = get_turf(H)
 	if(!T)
 		return 0
