@@ -73,7 +73,7 @@ var/list/fallout_head_positions = list(
 	"Centurion",
 	"Sergeant NCR",
 	"Veteran Ranger",
-	"Overseer",
+	"Overmare",
 	"Preacher"
 )
 

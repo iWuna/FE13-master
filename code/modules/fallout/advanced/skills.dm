@@ -60,6 +60,7 @@
 	. += 10 + getPoint("s") * 5
 
 	return .
+*/
 
 /datum/skills/proc/getPointBonus(type)
 	. = 0
@@ -78,7 +79,7 @@
 			. = (reagent("turbo") ? 10 : 0)
 		if("l")
 			. = 0
-*/
+
 /datum/skills/proc/getPoint(type, base = FALSE)
 	switch(type)
 		if("small_guns")

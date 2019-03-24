@@ -38,8 +38,8 @@
 	icon_state = "vinyl_mane"
 
 /datum/sprite_accessory/hair/sargeant
-	name = "Flat Top"
-	icon_state = "hair_sargeant"
+	name = "Whooves Mane"
+	icon_state = "whooves_mane"
 
 /datum/sprite_accessory/hair/fag
 	name = "Flow Hair"
@@ -47,7 +47,7 @@
 
 /datum/sprite_accessory/hair/cut
 	name = "Short Mane 1"
-	icon_state = "hair_cut"
+	icon_state = "cut_mane"
 
 /datum/sprite_accessory/hair/short
 	name = "Short Mane 2"
@@ -186,8 +186,8 @@
 	icon_state = "hair_bigpompadour"
 
 /datum/sprite_accessory/hair/hitop
-	name = "Hitop"
-	icon_state = "hair_hitop"
+	name = "Fleur Mane"
+	icon_state = "fleur_mane"
 
 /datum/sprite_accessory/hair/quiff
 	name = "Quiff"
@@ -536,33 +536,33 @@
 	icon_state = null
 	gender = NEUTER
 
-/datum/sprite_accessory/facial_hair/chaplin
+/datum/sprite_accessory/facial_hair/littlepip
 	name = "Littlepip Tail"
 	icon_state = "tail_littlepip"
 
-/datum/sprite_accessory/facial_hair/selleck
+/datum/sprite_accessory/facial_hair/lyra
 	name = "Lyra Tail"
 	icon_state = "tail_lyra"
 
-/datum/sprite_accessory/facial_hair/hogan
+/datum/sprite_accessory/facial_hair/vinyl
 	name = "Vinyl tail"
 	icon_state = "vinyl_tail" //-Neek
 
-/datum/sprite_accessory/facial_hair/fu
+/datum/sprite_accessory/facial_hair/rarity
 	name = "Rarity tail"
 	icon_state = "rarity_tail"
 
-/datum/sprite_accessory/facial_hair/kungfu
+/datum/sprite_accessory/facial_hair/steelhooves
 	name = "Steelhooves tail"
 	icon_state = "steelhooves_tail"
 
-/datum/sprite_accessory/facial_hair/watson
+/datum/sprite_accessory/facial_hair/twilight
 	name = "Twilight tail"
 	icon_state = "twilight_tail"
 
-/datum/sprite_accessory/facial_hair/britstache
-	name = "Britstache"
-	icon_state = "facial_britstache"
+/datum/sprite_accessory/tail/britstache
+	name = "Fluttershy tail"
+	icon_state = "fluttershy_tail"
 
 /datum/sprite_accessory/facial_hair/vandyke
 	name = "Van Dyke Mustache"

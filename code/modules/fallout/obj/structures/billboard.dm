@@ -38,8 +38,8 @@
 	icon_state = "ritas1"
 
 /obj/structure/billboard/cola
-	name = "Nuka-Cola billboard"
-	desc = "A defaced pre-War ad for Nuka-Cola.<br>The wasteland has taken its toll on the board."
+	name = "Sparkle-Cola billboard"
+	desc = "A defaced pre-War ad for Sparkle-Cola.<br>The wasteland has taken its toll on the board."
 	icon_state = "cola1"
 
 /obj/structure/billboard/cola/New()
@@ -47,8 +47,8 @@
 	icon_state = pick("cola2","cola3","cola4")
 
 /obj/structure/billboard/cola/pristine
-	name = "pristine Nuka-Cola billboard"
-	desc = "A pre-War ad for Nuka-Cola.<br>Oddly enough, it's good as new."
+	name = "pristine Sparkle-Cola billboard"
+	desc = "A pre-War ad for Sparkle-Cola.<br>Oddly enough, it's good as new."
 	icon_state = "cola1"
 
 /obj/structure/billboard/cola/pristine/New()
@@ -56,10 +56,30 @@
 	icon_state = "cola1"
 
 /obj/structure/billboard/cola/cola_shop
-	name = "pristine Nuka-Cola billboard"
-	desc = "A pre-War ad for Nuka-Cola.<br>Oddly enough, it's good as new."
+	name = "pristine Sparkle-Cola billboard"
+	desc = "A pre-War ad for Sparkle-Cola.<br>Oddly enough, it's good as new."
 	icon_state = "cola_shop"
 
 /obj/structure/billboard/cola/cola_shop/New()
 	..()
 	icon_state = "cola_shop"
+
+/obj/structure/billboard/stabletec
+	name = "pristine Stable-Tec billboard"
+	desc = "A pre-War ad for Stable-Tec.<br>Oddly enough, huh, i think it they saved a few..."
+	icon_state = "stable_tec"
+
+/obj/structure/billboard/applejack
+	name = "pristine RobronCo billboard"
+	desc = "A pre-War ad for RobronCo.<br>Oddly enough, hell, this is robot of ministry mare?..."
+	icon_state = "giddyup"
+
+/obj/structure/billboard/foefilm
+	name = "pristine 'new' film billboard"
+	desc = "A pre-War ad for Film.<br>Oddly enough, Uhm, film about wasteland? what?."
+	icon_state = "giddyup"
+
+/obj/structure/billboard/applejack2
+	name = "Sweet Apple Acres billboard"
+	desc = "A pre-War ad for RobronCo.<br>The wasteland has taken its toll on the board. Someone write word SUCK and others..."
+	icon_state = "sweetapple"

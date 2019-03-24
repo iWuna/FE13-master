@@ -165,6 +165,7 @@
 	icon = 'icons/fallout/clothing/suits.dmi'
 	icon_state = "hazmat"
 	item_state = "hazmat_suit"
+	flags_inv = HIDEFACIALHAIR
 	self_weight = 15
 
 /obj/item/clothing/head/bio_hood/f13/hazmat
@@ -173,7 +174,7 @@
 	icon = 'icons/fallout/clothing/hats.dmi'
 	icon_state = "hazmat"
 	item_state = "hazmat_helmet"
-	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE|HIDEHAIR|HIDEFACIALHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE|HIDEHAIR
 	self_weight = 15
 
 
@@ -185,7 +186,7 @@
 	item_state = "ghillie"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
 	armor = list(melee = 30, bullet = 0, laser = 0, energy = 0, bomb = 0, bio = 10, rad = 0, fire = 0, acid = 10)
-	flags_inv = HIDEJUMPSUIT
+	flags_inv = HIDEJUMPSUIT|HIDEFACIALHAIR
 	put_on_delay = 40
 	strip_delay = 40
 	self_weight = 15
@@ -197,7 +198,7 @@
 	item_state = "ghillie_hat"
 	flags = HEADCOVERSEYES | HEADCOVERSMOUTH
 	armor = list(melee = 30, bullet = 0, laser = 0, energy = 0, bomb = 0, bio = 10, rad = 0, fire = 0, acid = 10)
-	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE|HIDEHAIR|HIDEFACIALHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE|HIDEHAIR
 	put_on_delay = 20
 	strip_delay = 20
 	self_weight = 5

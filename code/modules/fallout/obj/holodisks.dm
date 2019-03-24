@@ -3,7 +3,7 @@
 
 /obj/item/weapon/holodisk
 	name = "holodisk"
-	desc = "A durable laser-readable storage device produced by Wattz Electronics.<br>Based on tape holography technology, it can store information safely for extended periods of time."
+	desc = "A durable laser-readable storage device produced by Ministry of Arcane Science.<br>Based on tape holography technology, it can store information safely for extended periods of time."
 	icon = 'icons/fallout/objects/items.dmi'
 	icon_state = "holodisk"
 	item_state = "holodisk"
@@ -47,12 +47,12 @@
 	soundLength = 430
 
 /obj/item/weapon/holodisk/runninggun
-	desc = "A durable laser-readable storage device produced by Wattz Electronics.<br>Based on tape holography technology, it can store information safely for extended periods of time.<br>This particular holodisk contains a rare Radio New Vegas broadcast.<br>An inscription on the side reads \"Running Gun\""
+	desc = "A durable laser-readable storage device produced by Ministry of Arcane Science.<br>Based on tape holography technology, it can store information safely for extended periods of time.<br>This particular holodisk contains a rare Radio New Vegas broadcast.<br>An inscription on the side reads \"Running Gun\""
 	soundFile =  'sound/f13music/new_vegas_show_bonus_1.ogg'
 	soundLength = 1836
 
 /obj/item/weapon/holodisk/bigiron
-	desc = "A durable laser-readable storage device produced by Wattz Electronics.<br>Based on tape holography technology, it can store information safely for extended periods of time.<br>This particular holodisk contains a rare Radio New Vegas broadcast.<br>An inscription on the side reads \"Big Iron\""
+	desc = "A durable laser-readable storage device produced by Ministry of Arcane Science.<br>Based on tape holography technology, it can store information safely for extended periods of time.<br>This particular holodisk contains a rare Radio New Vegas broadcast.<br>An inscription on the side reads \"Big Iron\""
 	soundFile =  'sound/f13music/new_vegas_show_bonus_2.ogg'
 	soundLength = 2448
 
@@ -60,6 +60,11 @@
 	desc = "A durable laser-readable storage device produced by Ministry of Arcane Science.<br>Based on tape holography technology, it can store information safely for extended periods of time.<br>This particular holodisk contains a pinkie pie voice.<br>An inscription on the side reads \"MrTrottenheimer\""
 	soundFile =  'sound/f13music/pinkie.ogg'
 	soundLength = 12
+
+/obj/item/weapon/holodisk/fe13/civildefence1
+	desc = "A durable laser-readable storage device produced by Ministry of Arcane Science.<br>Based on tape holography technology, it can store information safely for extended periods of time.<br>This particular holodisk contains a Pony Defence song.<br>An inscription on the side reads \"Sam (Aya)\""
+	soundFile =  'sound/f13music/civildefence1.ogg'
+	soundLength = 255
 
 //One special holodisk can gib the listener or cripple someone else.
 

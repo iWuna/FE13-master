@@ -762,7 +762,7 @@ var/list/preferences_datums = list()
 					update_preview = 1
 
 				if("facial")
-					var/new_facial = input(user, "Choose your character's facial-hair colour:", "Character Preference") as null|color
+					var/new_facial = input(user, "Choose your character's mane colour:", "Character Preference") as null|color
 					if(new_facial)
 						facial_hair_color = sanitize_hexcolor(new_facial)
 					update_preview = 1
@@ -770,9 +770,9 @@ var/list/preferences_datums = list()
 				if("facial_hair_style")
 					var/new_facial_hair_style
 					if(gender == MALE)
-						new_facial_hair_style = input(user, "Choose your character's facial-hair style:", "Character Preference")  as null|anything in facial_hair_styles_male_list
+						new_facial_hair_style = input(user, "Choose your character's mane style:", "Character Preference")  as null|anything in facial_hair_styles_male_list
 					else
-						new_facial_hair_style = input(user, "Choose your character's facial-hair style:", "Character Preference")  as null|anything in facial_hair_styles_female_list
+						new_facial_hair_style = input(user, "Choose your character's mane style:", "Character Preference")  as null|anything in facial_hair_styles_female_list
 					if(new_facial_hair_style)
 						facial_hair_style = new_facial_hair_style
 					update_preview = 1
