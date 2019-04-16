@@ -88,6 +88,19 @@ var/global/list/desertTurfEdgeCache
 	..()
 	icon_state = "rockfloor[rand(1,2)]"
 
+/turf/open/indestructible/ground/cloud
+	name = "Cloud"
+	icon_state = "cloud_old"
+	step_sounds = list("human" = "dirtfootsteps")
+	allowed_plants = list(/obj/item/seeds/broc, /obj/item/seeds/xander, /obj/item/seeds/agave, /obj/item/seeds/mutfruit, \
+	/obj/item/seeds/ferocactus, /obj/item/seeds/corn,/obj/item/seeds/shroom)
+	slowdown = 0.1
+	flags = CAN_HAVE_NATURE | ADJACENCIES_OVERLAY
+
+/turf/open/indestructible/cloud/New()
+	icon_state = "cloud[rand(1,4)]"
+	..()
+
 /turf/open/indestructible/ground/subway
 	name = "subway tunnel"
 	icon_state = "railsnone"

@@ -97,3 +97,98 @@
 /obj/structure/trap/ward/New()
 	..()
 	QDEL_IN(src, time_between_triggers)
+
+/*/Попытка спиздить радиацию// 15:26, вроде успешно. //
+
+#define DMG_TYPE_GIB 1
+#define DMG_TYPE_ENERGY 2
+#define DMG_TYPE_BURN 4
+#define DMG_TYPE_BRAIN 8
+#define DMG_TYPE_RADIATION 16
+#define DMG_TYPE_IGNITION 32
+#define DMG_TYPE_BIO 64
+
+
+/var/list/obj/anomaly/anomalies = list()
+
+/obj/rad 	//Не наносит урона
+	name = "Anomaly"
+	icon = 'icons/fallout/misc/anomalies.dmi'
+	icon_state = "rad_low"
+	var/damage_amount = 0 				//Сколько дамажит
+	damage_type = TOX	//Тип дамага	//Спрайт при активации
+	var/cooldown = 5 					//Кулдаун
+	var/lasttime = 0
+	var/list/trapped = new/list()
+	var/idle_luminosity = 0
+	var/activated_luminosity = 0
+	var/sound = null
+	var/delay = 0
+//	var/attachedSpawner = null
+	var/active_icon_state = null
+	var/inactive_icon_state = null
+	invisibility = 101
+	icon = 'icons/fallout/misc/anomalies.dmi'
+	anchored = 1
+	pass_flags = PASSTABLE | PASSGRILLE
+
+/obj/rad/rad_low
+	damage_amount = 1
+	sound = 'sound/f13effects/hma.ogg'
+	icon_state = "rad_low"
+
+/obj/rad/rad_medium
+	damage_amount = 4
+	sound = 'sound/f13effects/hma.ogg'
+	icon_state = "rad_medium"
+
+/obj/rad/rad_high
+	damage_amount = 8
+	sound = 'sound/f13effects/hma.ogg'
+	icon_state = "rad_high"
+
+/obj/rad/New()
+	..()
+	SSobj.processing.Remove(src)
+
+/obj/rad/Destroy()
+	..()
+	SSobj.processing.Remove(src)
+
+/obj/rad/Crossed(atom/A)
+	..()
+	if(lasttime + cooldown > world.time)
+		return
+
+	if(istype(A,/mob/living/carbon))
+		var/mob/living/carbon/M = A
+		src.trapped.Add(M)
+		if(src.trapped.len >= 1)
+			SSobj.processing |= src
+
+/obj/rad/Uncrossed(atom/A)
+	..()
+	if (istype(A,/mob/living/carbon))
+		var/mob/living/carbon/M = A
+		src.trapped.Remove(M)
+		SSobj.processing.Remove(src)
+
+/obj/rad/process()
+	if(src.trapped.len <= 0)
+		SSobj.processing.Remove(src)
+		return
+
+	if(lasttime + cooldown > world.time)
+		return
+
+	for(var/atom/A in src.trapped)
+		//if(istype(A, /mob/living))
+		var/mob/living/M = A
+		M.rad_act(src.damage_amount)
+		if(istype(M, /mob/living/carbon/human))
+			var/mob/living/carbon/human/H = M
+			if(istype(H.wear_id,/obj/item/device/pda))
+				M << sound(src.sound, repeat = 0, wait = 0, volume = 50, channel = 3)
+		src.lasttime = world.time
+*/
+
