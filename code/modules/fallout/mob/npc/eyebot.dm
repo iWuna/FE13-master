@@ -1,7 +1,7 @@
 //Fallout 13 eyebot directory
 
 /mob/living/simple_animal/hostile/eyebot
-	name = "eyebot"
+	name = "Spritebot"
 	desc = "A hovering, propaganda-spewing reconnaissance and surveillance robot with radio antennas pointing out its back and loudspeakers blaring out the front."
 	icon = 'icons/fallout/mobs/animal.dmi'
 	icon_state = "eyebot"
@@ -59,7 +59,7 @@
 
 /mob/living/simple_animal/hostile/eyebot/New()
 	..()
-	name = "ED-[rand(1,99)]"
+	name = "PB-[rand(1,99)]"
 
 	if(icon_state == "eyebot")
 		builtInCamera = new /obj/machinery/camera/portable(src)

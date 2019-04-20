@@ -593,7 +593,7 @@ var/next_mob_id = 0
 					continue
 				statpanel(listed_turf.name, null, A)
 
-
+/*
 	if(mind)
 		add_spells_to_statpanel(mind.spell_list)
 		if(mind.changeling)
@@ -615,7 +615,7 @@ var/next_mob_id = 0
 	for(var/obj/effect/proc_holder/changeling/S in stings)
 		if(S.chemical_cost >=0 && S.can_be_used_by(src))
 			statpanel("[S.panel]",((S.chemical_cost > 0) ? "[S.chemical_cost]" : ""),S)
-
+*/
 // facing verbs
 /mob/proc/canface()
 	if(!canmove)

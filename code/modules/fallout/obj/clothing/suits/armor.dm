@@ -91,7 +91,7 @@
 
 /obj/item/clothing/suit/armor/f13/supafly
 	name = "supa-fly raider armor"
-	desc = "Fabulous mutant powers were revealed to me the day I held aloft my bumper sword and said...<br>BY THE POWER OF NUKA-COLA, I AM RAIDER MAN!"
+	desc = "Fabulous mutant powers were revealed to me the day I held aloft my bumper sword and said...<br>BY THE POWER OF SPARKLE-COLA, I AM RAIDER MAN!"
 	icon_state = "supafly"
 	item_state = "supafly"
 	body_parts_covered = CHEST|GROIN|LEGS|ARMS
@@ -103,7 +103,7 @@
 
 /obj/item/clothing/suit/armor/f13/sadist
 	name = "sadist raider armor"
-	desc = "Fabulous mutant powers were revealed to me the day I held aloft my bumper sword and said...<br>BY THE POWER OF NUKA-COLA, I AM RAIDER MAN!"
+	desc = "Fabulous mutant powers were revealed to me the day I held aloft my bumper sword and said...<br>BY THE POWER OF SPARKLE-COLA, I AM RAIDER MAN!"
 	icon_state = "sadist"
 	item_state = "sadist"
 	body_parts_covered = CHEST|GROIN|LEGS|ARMS
@@ -472,7 +472,7 @@
 	armor = list(melee = 80, bullet = 70, laser = 40, energy = 30, bomb = 70, bio = 100, rad = 100, fire = 100, acid = 50)
 
 /obj/item/clothing/suit/armor/f13/power_armor/t51b
-	name = "T-51b power armor"
+	name = "Steel Rangers power armor MK2"
 	desc = "A mass-produced pinnacle of pre-War engineering.<br>Developed in the laboratories of the MWT Research Facility, the T-51b was deployed at the end of the Great War, by September 2077."
 	icon_state = "t51bpowerarmor"
 	item_state = "t51bpowerarmor"
