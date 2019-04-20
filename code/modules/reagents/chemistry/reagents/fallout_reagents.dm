@@ -153,16 +153,16 @@ datum/reagent/supstimpackium_oxy/on_mob_life(mob/living/M)
 	//water_factor = 5 * REAGENTS_METABOLISM
 
 /datum/reagent/water/nuka
-	name = "Nuka-cola"
+	name = "Sparkle-cola"
 	id = "nuka"
-	description = "The most popular flavored soft drink in the United States before the Great War.<br>It was preserved in a fairly pristine state."
+	description = "The most popular flavored soft drink in the Equestria before the Great War.<br>It was preserved in a fairly pristine state."
 	color = "#ff9955aa" // rgb: 170, 170, 170, 77 (alpha)
 	//water_factor = 5 * REAGENTS_METABOLISM
 
 /datum/reagent/water/vim
 	name = "VIM"
 	id = "vim"
-	description = "Vim! Pop Incorporated was founded in 1931, initially being sold as a health tonic. It wasn't as popular as Nuka-Cola, however in Maine it was more widely consumed than its rival. Vim was even referred to as a state tradition and about to become the official state drink of Maine; however, during the process of making this official, legal situations forced the company to back off its marketing."
+	description = "Vim! Pop Incorporated was founded in 1931, initially being sold as a health tonic. It wasn't as popular as Sparkle-Cola, however in Maine it was more widely consumed than its rival. Vim was even referred to as a state tradition and about to become the official state drink of Maine; however, during the process of making this official, legal situations forced the company to back off its marketing."
 	color = "#ff9966aa" // rgb: 170, 170, 170, 77 (alpha)
 	//water_factor = 5 * REAGENTS_METABOLISM
 
@@ -178,9 +178,9 @@ datum/reagent/supstimpackium_oxy/on_mob_life(mob/living/M)
 	. = 1
 
 /datum/reagent/water/fev
-	name = "FEV"
+	name = "IMP"
 	id = "fev"
-	description = "FEV nears completion. Test on lab animals are at a near 100% success rate. Size and muscle density increase approximately 60%, and the potential intelligence increase by 200%. Effects upon human subjects remain unknown; although they are theoretically promising. The military, wishing to continue further testing, builds a large facility at the Mariposa military installation in central California. At this new facility, testing of the FEV virus continues on volunteer subjects from the military."
+	description = "The Impelled Metamorphosis Potion (I.M.P.), which later on came to be known as Taint, was developed by Twilight Sparkle herself. The goal of the project was to create an army of artificial Alicorns loyal to Equestria. The Alicorns would be far more powerful than a typical unicorn and possess the flight and cloud walking/cloud controlling abilities of a Pegasus and the fortitude of an Earth Pony."
 	color = "#88ff8877"
 
 /datum/reagent/water/fev/on_mob_life(mob/living/M)
