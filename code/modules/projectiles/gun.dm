@@ -702,8 +702,6 @@
 		var/datum/action/A = X
 		A.UpdateButtonIcon()
 
-/obj/item/weapon/battlesaddle
-
 /obj/item/weapon/gun/attack_hand(mob/user)
 	if(src.need_saddle && user.get_item_by_slot(slot_back) != /obj/item/weapon/battlesaddle)
 		return FALSE
