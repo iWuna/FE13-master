@@ -206,7 +206,7 @@
 /obj/item/weapon/battlesaddle
 	name = "Battle Saddle"
 	desc = "Saddle for holding some kind of weapons"
-	icon = 'icons/fallout/mob/suit.dmi'
+	icon = 'icons/fallout/clothing_w/suit.dmi'
 	icon_state = "battlesaddle"
 	slot_flags = SLOT_BACK
 	self_weight = 5
