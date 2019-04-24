@@ -853,3 +853,15 @@
 
 /datum/sprite_accessory/legs/digitigrade_lizard
 	name = "Digitigrade Legs"
+
+/datum/sprite_accessory/unihorn
+	icon = 'icons/mob/mutant_bodyparts.dmi'
+
+/datum/sprite_accessory/unihorn/none
+	name = "None"
+	icon_state = "none"
+
+/datum/sprite_accessory/unihorn/simple
+	name = "Simple"
+	icon_state = "simple"
+	color_src = HAIR

@@ -862,6 +862,13 @@ var/list/preferences_datums = list()
 						features["horns"] = new_horns
 					update_preview = 1
 
+				if("horns")
+					var/new_unihorn
+					new_unihorn = input(user, "Choose your character's unihorn:", "Character Preference") as null|anything in unihorn_list
+					if(new_unihorn)
+						features["unihorn"] = new_unihorn
+					update_preview = 1
+
 				if("ears")
 					var/new_ears
 					new_ears = input(user, "Choose your character's ears:", "Character Preference") as null|anything in ears_list

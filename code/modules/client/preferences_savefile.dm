@@ -361,6 +361,7 @@ SAVEFILE UPDATING/VERSIONING - 'Simplified', or rather, more coder-friendly ~Car
 	features["tail_human"] 	= sanitize_inlist(features["tail_human"], tails_list_human, "None")
 	features["snout"]	= sanitize_inlist(features["snout"], snouts_list)
 	features["horns"] 	= sanitize_inlist(features["horns"], horns_list)
+	features["unihorn"] = sanitize_inlist(features["unihorn"], unihorn_list)
 	features["ears"]	= sanitize_inlist(features["ears"], ears_list, "None")
 	features["frills"] 	= sanitize_inlist(features["frills"], frills_list)
 	features["spines"] 	= sanitize_inlist(features["spines"], spines_list)
