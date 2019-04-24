@@ -202,3 +202,13 @@
 	put_on_delay = 20
 	strip_delay = 20
 	self_weight = 5
+
+/obj/item/weapon/battlesaddle
+	name = "Battle Saddle"
+	desc = "Saddle for holding some kind of weapons"
+	icon = 'icons/fallout/mob/suit.dmi'
+	icon_state = "battlesaddle"
+	slot_flags = SLOT_BACK
+	self_weight = 5
+	put_on_delay = 20
+	w_class = WEIGHT_CLASS_HUGE
