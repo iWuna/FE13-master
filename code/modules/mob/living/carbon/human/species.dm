@@ -417,6 +417,8 @@
 					S = frills_list[H.dna.features["frills"]]
 				if("horns")
 					S = horns_list[H.dna.features["horns"]]
+				if("unihorn")
+					S = unihorn_list[H.dna.features["unihorn"]]
 				if("ears")
 					S = ears_list[H.dna.features["ears"]]
 				if("body_markings")

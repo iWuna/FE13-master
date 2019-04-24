@@ -21,6 +21,7 @@
 	init_sprite_accessory_subtypes(/datum/sprite_accessory/tails_animated/human, animated_tails_list_human)
 	init_sprite_accessory_subtypes(/datum/sprite_accessory/snouts, snouts_list)
 	init_sprite_accessory_subtypes(/datum/sprite_accessory/horns, horns_list)
+	init_sprite_accessory_subtypes(/datum/sprite_accessory/unihorn, unihorn_list)
 	init_sprite_accessory_subtypes(/datum/sprite_accessory/ears, ears_list)
 	init_sprite_accessory_subtypes(/datum/sprite_accessory/wings, wings_list)
 	init_sprite_accessory_subtypes(/datum/sprite_accessory/wings_open, wings_open_list)
