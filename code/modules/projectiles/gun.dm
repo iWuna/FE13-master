@@ -72,7 +72,7 @@
 	var/jam_fixing = FALSE
 
     //var/loaded = 0
-	var/need_saddle = TRUE
+	var/no_need_saddle = FALSE
 
 /mob/living/carbon/human/verb/weaponWield()
 	set name = "Wield"
@@ -242,7 +242,8 @@
 /obj/item/weapon/gun/proc/process_fire(atom/target as mob|obj|turf, mob/living/user as mob|obj, message = 1, params, zone_override, bonus_spread = 0)
 	add_fingerprint(user)
 /////////////
-	if(src.need_saddle && user.get_item_by_slot(slot_back) != /obj/item/weapon/battlesaddle)
+	var/obj/item/weapon/battlesaddle/SD
+	if(src.no_need_saddle && user.get_item_by_slot(slot_back) != SD)
 		user.drop_item()
 		return
 
@@ -703,7 +704,9 @@
 		A.UpdateButtonIcon()
 
 /obj/item/weapon/gun/attack_hand(mob/user)
-	if(src.need_saddle && user.get_item_by_slot(slot_back) != /obj/item/weapon/battlesaddle)
+	var/obj/item/weapon/battlesaddle/SD
+	if(src.no_need_saddle && user.get_item_by_slot(slot_back) != SD)
+		to_chat (user, "You need special saddle. You have hooves.")
 		return FALSE
 	..()
 
