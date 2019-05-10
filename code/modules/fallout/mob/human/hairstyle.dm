@@ -112,11 +112,12 @@
 /datum/sprite_accessory/hair/halfbang
 	name = "Half-banged Hair"
 	icon_state = "hair_halfbang"
-
-/datum/sprite_accessory/hair/halfbang2
-	name = "Half-banged Hair 2"
-	icon_state = "hair_halfbang2"
 */
+
+/datum/sprite_accessory/hair/yarin
+	name = "SUPER SECRET MANE"
+	icon_state = "mane_secret"
+
 
 /datum/sprite_accessory/hair/ponytail1
 	name = "Pinkie Pie"
@@ -234,8 +235,9 @@
 /datum/sprite_accessory/facial_hair/dwarf
 	name = "Dwarf Beard"
 	icon_state = "facial_dwarf"
-
-/datum/sprite_accessory/facial_hair/tribeard
-	name = "Tribeard"
-	icon_state = "facial_tribeard"
 */
+
+/datum/sprite_accessory/facial_hair/yarin
+	name = "SUPER SECRET TAIL"
+	icon_state = "secret_tail"
+
