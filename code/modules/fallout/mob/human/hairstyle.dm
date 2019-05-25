@@ -176,27 +176,27 @@
 	name = "Fluttershy tail"
 	icon_state = "fluttershy_tail"
 
-/*datum/sprite_accessory/facial_hair/vandyke
-	name = "Van Dyke Mustache"
+datum/sprite_accessory/facial_hair/vandyke
+	name = "Fluff tail"
 	icon_state = "facial_vandyke"
 
 /datum/sprite_accessory/facial_hair/elvis
-	name = "Elvis Sideburns"
+	name = "Smallest tail"
 	icon_state = "facial_elvis"
 
 /datum/sprite_accessory/facial_hair/unshaven
-	name = "Unshaven"
+	name = "Small tail"
 	icon_state = "facial_unshaven"
 
 /datum/sprite_accessory/facial_hair/chinstrap
-	name = "Chinstrap"
+	name = "Izlom tail"
 	icon_state = "facial_chin"
 
 /datum/sprite_accessory/facial_hair/neckbeard
-	name = "Neckbeard"
+	name = "Woozy's tail"
 	icon_state = "facial_neckbeard"
 
-/datum/sprite_accessory/facial_hair/hip
+/*/datum/sprite_accessory/facial_hair/hip
 	name = "Hipster Beard"
 	icon_state = "facial_hip"
 
