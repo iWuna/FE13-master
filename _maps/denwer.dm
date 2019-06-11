@@ -4,7 +4,7 @@
 
 		#define MINETYPE "lavaland"
 
-        #include "map_files\Denwer\Equestria.dmm"
+        #include "map_files\Equestria\Equestria.dmm"
         //#include "map_files\Denwer\denwersewers.dmm"
         #include "RandomZLevels\centcomAway.dmm"
 
