@@ -191,3 +191,12 @@
 	if(happens_once)
 		qdel(src)
 
+/obj/effect/step_trigger/sound_effect/discovered
+	//var/message
+	happens_once = 1
+	mobs_only = TRUE
+	sound = 'sound/f13effects/ui_levelup.ogg'
+	triggerer_only = 1
+
+/obj/effect/step_trigger/sound_effect/discovered/manehattanokraina
+	//var/message	= "You discovered new location, suburb of Manehattan."

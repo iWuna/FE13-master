@@ -274,3 +274,47 @@ list(name = "- Carbon Dioxide", desc = " This informational poster teaches the v
 
 	D.roll_and_drop(temp_loc,D.official)
 	to_chat(user, "<span class='notice'>The poster falls down!</span>")
+
+/obj/structure/sign/poster/fe13/pinkie
+	icon_state = "poster9_legit"
+	name = "Ministry of Morale poster"
+
+/obj/structure/sign/poster/fe13/twilight
+	icon_state = "poster7_legit"
+	name = "Ministry of Arcane Sciences poster"
+
+/obj/structure/sign/poster/fe13/fluttershy
+	icon_state = "poster4_legit"
+	name = "Ministry of Peace poster"
+
+/obj/structure/sign/poster/fe13/stabletec
+	icon_state = "poster21_legit"
+	name = "Stable-Tec poster"
+
+/obj/structure/sign/poster/fe13/stabletec2
+	icon_state = "poster28_legit"
+	name = "Stable-Tec poster"
+
+/obj/structure/sign/poster/fe13/gov
+	icon_state = "poster22_legit"
+	name = "Goverment poster"
+
+/obj/structure/sign/poster/fe13/gov2
+	icon_state = "poster6_legit"
+	name = "Goverment poster"
+
+/obj/structure/sign/poster/fe13/gov3
+	icon_state = "poster13_legit"
+	name = "Goverment poster"
+
+/obj/structure/sign/poster/fe13/gov4
+	icon_state = "poster19_legit"
+	name = "Goverment poster"
+
+/obj/structure/sign/poster/fe13/gov5
+	icon_state = "poster33_legit"
+	name = "Goverment poster"
+
+/obj/structure/sign/poster/fe13/gov6
+	icon_state = "poster29_legit"
+	name = "Goverment poster"

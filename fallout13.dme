@@ -16,6 +16,7 @@
 #include "_maps\__MAP_DEFINES.dm"
 #include "_maps\denwer.dm"
 #include "_maps\map_files\Equestria\Equestria.dmm"
+#include "_maps\map_files\Equestria\navarro.dmm"
 #include "_maps\RandomZLevels\centcomAway.dmm"
 #include "code\_compile_options.dm"
 #include "code\world.dm"

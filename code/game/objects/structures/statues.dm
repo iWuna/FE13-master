@@ -305,11 +305,14 @@
 	icon_state = "assist"
 
 
-/obj/structure/statue/sandstone/venus //call me when we add marble i guess
-	name = "statue of a pure maiden"
-	desc = "An ancient marble statue. The subject is depicted with a floor-length braid and is wielding a toolbox. By Jove, it's easily the most gorgeous depiction of a woman you've ever seen. The artist must truly be a master of his craft. Shame about the broken arm, though."
+/obj/structure/statue/sandstone/marauders //call me when we add marble i guess
+	name = "Macintosh's Marauders memorial"
+	desc = "Огромный мемориал почти забытым Мародёрам Макинтоша. Какие-то ублюдки попытались сломать его, как мерзко. На табличке написано: В честь храбрых войнов сражающихся за нашу землю."
 	icon = 'icons/obj/statuelarge.dmi'
-	icon_state = "venus"
+	icon_state = "marauders"
+	density = 1
+	anchored = 0
+	obj_integrity = 100000
 
 /////////////////////snow/////////////////////////////////////////
 
