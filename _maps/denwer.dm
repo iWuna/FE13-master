@@ -6,8 +6,9 @@
 
         #include "map_files\Equestria\Equestria.dmm"
         #include "map_files\Equestria\navarro.dmm"
-        //#include "map_files\Denwer\denwersewers.dmm"
         #include "RandomZLevels\centcomAway.dmm"
+		#include "map_files\Equestria\tunnel1.dmm"
+		#include "map_files\Equestria\manehattanunderground.dmm"
 
 		#define MAP_PATH "map_files/Equestria"
         #define MAP_FILE "Equestria.dmm"

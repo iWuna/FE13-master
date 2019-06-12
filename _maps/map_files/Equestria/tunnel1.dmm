@@ -1,0 +1,935 @@
+"aa" = (/turf/closed/indestructible/f13/matrix,/area/f13/caves)
+"ab" = (/turf/closed/indestructible/f13/obsidian,/area/f13/caves)
+"ac" = (/turf/closed/wall/r_wall/rust,/area/f13/vault)
+"ad" = (/obj/effect/decal/cleanable/deadcockroach,/obj/effect/decal/cleanable/blood/xtracks,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"ae" = (/obj/effect/decal/cleanable/dirt,/obj/effect/spawner/lootdrop/food,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"af" = (/obj/structure/spider,/obj/structure/spider,/turf/open/floor/plasteel/white,/area/f13/vault)
+"ag" = (/obj/effect/decal/cleanable/generic,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"ah" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/vending/nukacolavend/full,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"ai" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/plate,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aj" = (/obj/effect/decal/cleanable/dirt,/obj/item/crafting/abraxo,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"ak" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin{tag = "icon-tin (EAST)"; icon_state = "tin"; dir = 4},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"al" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"am" = (/obj/effect/decal/cleanable/dirt,/obj/item/crafting/duct_tape,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"an" = (/obj/effect/decal/cleanable/dirt,/obj/item/chair/stool,/mob/living/simple_animal/cockroach,/turf/open/floor/plating,/area/f13/vault)
+"ao" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/mre,/obj/item/device/aicard,/turf/open/floor/plating,/area/f13/vault)
+"ap" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating,/area/f13/vault)
+"aq" = (/obj/effect/decal/cleanable/generic,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/wrench/power,/turf/open/floor/plating,/area/f13/vault)
+"ar" = (/obj/effect/decal/cleanable/blood/xtracks,/obj/effect/decal/cleanable/blood/xtracks,/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small/red{tag = "icon-red1 (WEST)"; icon_state = "red1"; dir = 8},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"as" = (/obj/effect/decal/cleanable/dirt,/obj/structure/barricade/wooden/strong,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"at" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin{tag = "icon-tin (WEST)"; icon_state = "tin"; dir = 8},/obj/item/clothing/under/f13/rag,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"au" = (/obj/item/weapon/newspaper,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"av" = (/obj/effect/decal/cleanable/dirt,/obj/structure/barricade/sandbags,/obj/item/crafting/fuse,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aw" = (/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"ax" = (/obj/item/crafting/transistor,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"ay" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin,/obj/item/trash/f13/tin{tag = "icon-tin (WEST)"; icon_state = "tin"; dir = 8},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"az" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/mre,/turf/open/floor/plating,/area/f13/vault)
+"aA" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/light_construct{tag = "icon-tube-construct-stage1 (EAST)"; icon_state = "tube-construct-stage1"; dir = 4},/obj/item/weapon/circuitboard/computer/mecha_control,/mob/living/simple_animal/hostile/faithless,/turf/open/floor/plating,/area/f13/vault)
+"aB" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/crisps,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aC" = (/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/ghoul,/mob/living/simple_animal/cockroach,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aD" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/shard{icon_state = "small"},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aE" = (/obj/item/clothing/mask/gas/explorer,/obj/structure/table/wood/settler,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"aF" = (/obj/effect/decal/cleanable/dirt,/obj/structure/barricade/sandbags,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aG" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/waffles,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aH" = (/obj/item/weapon/reagent_containers/food/drinks/ale,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aI" = (/obj/effect/decal/cleanable/deadcockroach,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aJ" = (/obj/effect/decal/cleanable/molten_object/large,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aK" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/food,/turf/open/floor/holofloor/beach/water,/area/f13/tunnel)
+"aL" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/gun/ballistic/automatic/pistol/n99,/obj/item/clothing/under/f13/bdu,/turf/open/floor/plating,/area/f13/vault)
+"aM" = (/obj/effect/decal/cleanable/blood/old,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aN" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/poster/contraband,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aO" = (/obj/structure/campfire,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aP" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/relic{tag = "icon-emergency_double"; icon_state = "emergency_double"},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aQ" = (/obj/machinery/door/airlock/glass,/obj/effect/decal/cleanable/dirt,/obj/structure/barricade/wooden/planks,/turf/open/floor/plasteel/red,/area/f13/vault)
+"aR" = (/obj/machinery/door/airlock/glass,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/delivery,/area/f13/vault)
+"aS" = (/obj/machinery/status_display,/turf/closed/wall/r_wall/rust,/area/f13/vault)
+"aT" = (/obj/structure/door_assembly/door_assembly_mhatch,/obj/structure/barricade/wooden/planks,/turf/open/floor/plating,/area/f13/vault)
+"aU" = (/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/faithless,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aV" = (/obj/effect/decal/cleanable/blood/tracks,/obj/effect/decal/cleanable/dirt,/obj/item/stack/cable_coil,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aW" = (/obj/machinery/door/airlock/external,/obj/effect/decal/cleanable/dirt,/obj/structure/barricade/wooden/planks,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"aX" = (/obj/effect/decal/cleanable/dirt,/obj/structure/barricade/wooden/strong,/turf/open/floor/plasteel/red,/area/f13/vault)
+"aY" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"aZ" = (/obj/effect/decal/cleanable/dirt,/obj/structure/reagent_dispensers/water_cooler,/turf/open/floor/plasteel/red,/area/f13/vault)
+"ba" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/flour,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bb" = (/obj/effect/decal/cleanable/dirt,/obj/effect/spawner/lootdrop/ammo,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bc" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/stack/rods,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bd" = (/obj/item/weapon/newspaper,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/relic{tag = "icon-emergency_double"; icon_state = "emergency_double"},/turf/open/floor/plasteel/red,/area/f13/vault)
+"be" = (/obj/structure/closet,/obj/effect/decal/cleanable/dirt,/obj/item/crafting/duct_tape,/obj/item/device/geiger_counter,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bf" = (/obj/structure/closet,/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/mre,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bg" = (/obj/structure/campfire,/turf/open/floor/holofloor/beach/water,/area/f13/tunnel)
+"bh" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/pipe,/turf/open/floor/plating,/area/f13/vault)
+"bi" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/mechanist,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bj" = (/obj/effect/decal/cleanable/blood/tracks,/obj/effect/decal/cleanable/dirt,/obj/item/crafting/transistor,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bk" = (/obj/effect/decal/cleanable/dirt,/obj/structure/grille,/obj/structure/girder,/obj/structure/barricade/wooden/strong,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bl" = (/obj/effect/decal/cleanable/blood/old,/turf/closed/wall/r_wall/rust,/area/f13/vault)
+"bm" = (/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bn" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/grille,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bo" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin,/obj/item/weapon/shard,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bp" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/clothing/shoes/jackboots,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bq" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/campfire,/turf/open/floor/plasteel/red,/area/f13/vault)
+"br" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/waste{tag = "icon-goo10"; icon_state = "goo10"},/obj/item/trash/f13/tin{tag = "icon-tin (NORTH)"; icon_state = "tin"; dir = 1},/turf/open/floor/plasteel/red,/area/f13/vault)
+"bs" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bt" = (/obj/machinery/door/airlock/external,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bu" = (/obj/effect/decal/cleanable/dirt,/obj/effect/spawner/lootdrop/food,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bv" = (/obj/structure/decoration/vent/rusty,/obj/effect/decal/cleanable/dirt,/obj/machinery/light,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bw" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/gun/ballistic/automatic/pistol/n99,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bx" = (/obj/item/weapon/shard,/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/cockroach,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"by" = (/obj/structure/chair{tag = "icon-chair (NORTH)"; icon_state = "chair"; dir = 1},/turf/open/floor/holofloor/beach/water,/area/f13/tunnel)
+"bz" = (/obj/effect/decal/cleanable/dirt,/obj/structure/rack,/obj/structure/grille,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bA" = (/obj/effect/decal/cleanable/dirt,/obj/structure/grille,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bB" = (/obj/structure/table,/obj/item/weapon/reagent_containers/pill/patch/medx,/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/mre,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bC" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/clothing/under/lawyer/red,/obj/item/device/flashlight/red,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bD" = (/obj/structure/decoration/vent/rusty,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bE" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/spawner/lootdrop/ammo,/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/open/floor/plasteel/red,/area/f13/vault)
+"bF" = (/obj/machinery/vending/wallmed,/turf/closed/wall/r_wall/rust,/area/f13/vault)
+"bG" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small/red{tag = "icon-red1 (WEST)"; icon_state = "red1"; dir = 8},/turf/open/floor/plasteel/red,/area/f13/vault)
+"bH" = (/obj/effect/decal/cleanable/generic,/obj/effect/decal/cleanable/dirt,/obj/effect/spawner/lootdrop/food,/obj/item/stack/cable_coil,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bI" = (/obj/effect/decal/cleanable/dirt,/obj/item/clothing/head/helmet/power_armor/t51b,/turf/open/floor/plating,/area/f13/vault)
+"bJ" = (/turf/closed/wall/f13/ruins,/area/f13/vault)
+"bK" = (/obj/effect/decal/cleanable/dirt,/obj/structure/piano,/obj/structure/grille,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bL" = (/obj/effect/decal/cleanable/dirt,/obj/structure/janitorialcart,/obj/structure/grille,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bM" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/clothing/head/warden,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bN" = (/obj/effect/decal/cleanable/blood/old,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/shard{icon_state = "medium"},/turf/open/floor/plasteel/red,/area/f13/vault)
+"bO" = (/obj/item/weapon/pickaxe/rust,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bP" = (/obj/item/clothing/suit/curator,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/clothing/shoes/winterboots,/obj/item/device/harmonica,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bQ" = (/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/protectron,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bR" = (/obj/structure/decoration/vent/rusty,/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin{tag = "icon-tin (EAST)"; icon_state = "tin"; dir = 4},/obj/item/weapon/circuitboard/computer/mech_bay_power_console,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bS" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/waste{tag = "icon-goo10"; icon_state = "goo10"},/turf/open/floor/plasteel/red,/area/f13/vault)
+"bT" = (/obj/effect/decal/cleanable/generic,/turf/closed/wall/r_wall/rust,/area/f13/vault)
+"bU" = (/obj/effect/decal/cleanable/dirt,/obj/structure/decoration/ruins,/obj/structure/ore_box,/obj/structure/grille,/obj/structure/foamedmetal/iron,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bV" = (/obj/effect/decal/cleanable/dirt,/obj/structure/decoration/ruins,/obj/structure/grille,/obj/structure/foamedmetal/iron,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bW" = (/obj/effect/decal/cleanable/dirt,/obj/structure/decoration/ruins,/obj/structure/rack,/obj/structure/grille,/obj/structure/foamedmetal/iron,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"bX" = (/obj/item/weapon/photo,/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/folder/red,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bY" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/drinks/mug,/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/rotten,/turf/open/floor/plasteel/red,/area/f13/vault)
+"bZ" = (/obj/machinery/doorButtons/vaultButton{id = 45},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"ca" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/broken_bottle,/turf/open/floor/plasteel/red,/area/f13/vault)
+"cb" = (/obj/effect/decal/cleanable/blood/old,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"cc" = (/obj/item/weapon/shard{icon_state = "small"},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"cd" = (/obj/structure/closet,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"ce" = (/obj/structure/closet,/obj/effect/decal/cleanable/dirt,/obj/item/crafting/duct_tape,/obj/machinery/light,/turf/open/floor/plasteel/red,/area/f13/vault)
+"cf" = (/obj/structure/closet,/obj/effect/decal/cleanable/dirt,/obj/item/device/geiger_counter,/turf/open/floor/plasteel/red,/area/f13/vault)
+"cg" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/mre,/obj/item/clothing/under/f13/rag,/turf/open/floor/plasteel/red,/area/f13/vault)
+"ch" = (/obj/structure/decoration/rag,/obj/structure/grille,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"ci" = (/obj/structure/grille,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/waste{tag = "icon-goo10"; icon_state = "goo10"},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cj" = (/obj/effect/decal/cleanable/blood/tracks,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"ck" = (/turf/closed/wall/f13/ruins,/area/f13/caves)
+"cl" = (/turf/closed/wall/r_wall/f13,/area/f13/caves)
+"cm" = (/obj/structure/decoration/clock/old,/turf/closed/wall/r_wall/rust,/area/f13/vault)
+"cn" = (/turf/closed/wall/f13/supermart,/area/f13/vault)
+"co" = (/obj/structure/vault_door/old{id = 45},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/red,/area/f13/vault)
+"cp" = (/obj/item/weapon/spear,/obj/effect/decal/cleanable/dirt,/obj/item/ammo_box/c10mm,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"cq" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"cr" = (/obj/effect/decal/cleanable/blood/tracks,/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cs" = (/turf/closed/wall/f13/tunnel,/area/f13/vault)
+"ct" = (/obj/item/clothing/under/f13/vault,/obj/effect/decal/cleanable/dirt,/obj/item/crafting/resistor,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"cu" = (/obj/effect/decal/cleanable/blood/old,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"cv" = (/obj/effect/decal/cleanable/dirt,/obj/item/crafting/small_gear,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"cw" = (/obj/machinery/doorButtons/vaultButton{id = 45},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"cx" = (/obj/item/weapon/bedsheet/blue,/obj/structure/bed,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cy" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/dog,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cz" = (/obj/structure/table,/obj/item/weapon/reagent_containers/pill/patch/radaway,/obj/effect/decal/cleanable/dirt,/obj/item/device/laser_pointer/red,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cA" = (/obj/effect/decal/cleanable/dirt,/obj/structure/reagent_dispensers/water_cooler,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cB" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cC" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"cD" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/gun/ballistic/automatic/pistol/n99,/obj/item/weapon/holodisk/musicbox,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cE" = (/obj/item/weapon/reagent_containers/pill/patch/radx,/obj/effect/decal/cleanable/dirt,/obj/structure/closet/cabinet,/obj/item/trash/f13/bubblegum,/obj/item/clothing/under/f13/bdu,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cF" = (/obj/item/weapon/bedsheet/blue,/obj/structure/bed,/obj/effect/decal/cleanable/dirt,/obj/item/clothing/suit/armor/f13/power_armor/t51b,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cG" = (/turf/closed/wall/f13/tunnel,/area/f13/tunnel)
+"cH" = (/obj/structure/tires/five,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"cI" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/cartridge/engineering,/mob/living/simple_animal/cockroach,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"cJ" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin{tag = "icon-tin (NORTH)"; icon_state = "tin"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"cK" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/barricade_m/sandbags{icon_state = "sandbag_1"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"cL" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/waste{tag = "icon-goo3"; icon_state = "goo3"},/obj/item/crafting/duct_tape,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cM" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cN" = (/obj/item/crafting/timer,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cO" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/gun/ballistic/automatic/mini_uzi,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cP" = (/obj/effect/decal/cleanable/generic,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cQ" = (/obj/structure/closet/body_bag,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"cR" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/mechanist,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"cS" = (/obj/structure/mecha_wreckage/ripley,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"cT" = (/obj/effect/decal/cleanable/dirt,/obj/item/clothing/under/f13/mechanic,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"cU" = (/obj/item/weapon/shard{icon_state = "medium"},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"cV" = (/obj/structure/grille,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"cW" = (/mob/living/simple_animal/hostile/protectron,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"cX" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/barricade_m/sandbags{icon_state = "sandbag_0"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"cY" = (/obj/machinery/light/small/red{tag = "icon-red1 (NORTH)"; icon_state = "red1"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"cZ" = (/obj/item/weapon/storage/box/lights,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"da" = (/obj/structure/ore_box,/obj/machinery/light{tag = "icon-tube1 (WEST)"; icon_state = "tube1"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"db" = (/obj/item/weapon/reagent_containers/pill/patch/radaway,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"dc" = (/obj/effect/decal/cleanable/dirt,/obj/structure/barricade_m/sandbags{icon_state = "sandbag_2"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"dd" = (/obj/structure/rack,/obj/item/weapon/reagent_containers/pill/mutadone,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/powergauntlet,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"de" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/paper_bin,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"df" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/portable_atmospherics/canister/freon,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"dg" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/waste{tag = "icon-goo2"; icon_state = "goo2"},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dh" = (/obj/effect/decal/cleanable/dirt,/obj/structure/light_construct{tag = "icon-tube-construct-stage1 (EAST)"; icon_state = "tube-construct-stage1"; dir = 4},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"di" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/drinks/ale,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/pipe,/obj/item/crafting/transistor,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dj" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dk" = (/obj/item/weapon/bedsheet/blue,/obj/structure/bed,/obj/effect/decal/cleanable/blood/old,/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/bubblegum,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dl" = (/obj/effect/spawner/lootdrop/ammo,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"dm" = (/obj/item/clothing/under/f13/vault,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dn" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/picket_sign,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"do" = (/obj/item/weapon/shard{icon_state = "small"},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dp" = (/obj/effect/decal/cleanable/dirt,/obj/item/blueprint/glock,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dq" = (/obj/item/crafting/timer,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"dr" = (/obj/structure/campfire,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ds" = (/obj/item/trash/f13/tin{tag = "icon-tin (EAST)"; icon_state = "tin"; dir = 4},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"dt" = (/obj/structure/grille,/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small/red{tag = "icon-red1 (WEST)"; icon_state = "red1"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/vault)
+"du" = (/turf/closed/wall/r_wall/rust,/area/f13/ruins)
+"dv" = (/turf/closed/wall/f13/wood,/area/f13/ruins)
+"dw" = (/turf/closed/wall/f13/tunnel,/area/f13/ruins)
+"dx" = (/obj/structure/urinal,/turf/closed/wall/r_wall/rust,/area/f13/ruins)
+"dy" = (/obj/structure/simple_door/metal/ventilation,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"dz" = (/obj/machinery/light/small/red{tag = "icon-red1 (EAST)"; icon_state = "red1"; dir = 4},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"dA" = (/turf/closed/wall/f13/tunnel,/area/f13/caves)
+"dB" = (/obj/item/clothing/under/f13/rag,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"dC" = (/obj/item/weapon/bedsheet/blue,/obj/structure/bed,/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/cram_large,/obj/item/weapon/storage/box/lights,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dD" = (/obj/structure/closet,/obj/effect/decal/cleanable/dirt,/obj/effect/spawner/lootdrop/clothing_low,/obj/item/clothing/under/f13/bdu,/obj/structure/light_construct{tag = "icon-tube-construct-stage1 (NORTH)"; icon_state = "tube-construct-stage1"; dir = 1},/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dE" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/crafting/lunchbox,/turf/open/floor/plating,/area/f13/vault)
+"dF" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/hatchet,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"dG" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin_large,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dH" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/coal,/obj/item/weapon/melee/powerfist,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dI" = (/obj/effect/decal/cleanable/dirt,/obj/item/crafting/timer,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"dJ" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/ammo_box/c10mm,/turf/open/floor/plating,/area/f13/vault)
+"dK" = (/obj/structure/rack,/obj/effect/decal/cleanable/dirt,/obj/effect/spawner/lootdrop/clothing_middle,/obj/item/clothing/under/f13/bdu,/turf/open/floor/plating,/area/f13/vault)
+"dL" = (/obj/item/weapon/bedsheet/blue,/obj/structure/bed,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/gun/ballistic/shotgun/rifle,/turf/open/floor/plating,/area/f13/vault)
+"dM" = (/obj/machinery/autolathe,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"dN" = (/obj/structure/table/wood/settler,/obj/item/clothing/suit/f13/vest,/obj/item/clothing/under/f13/machinist,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"dO" = (/obj/structure/table/wood/settler,/obj/item/stack/cable_coil/blue,/obj/item/stack/cable_coil/blue,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"dP" = (/obj/structure/reagent_dispensers/barrel/dangerous,/obj/effect/decal/cleanable/waste,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"dQ" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/barricade_m/sandbags{icon_state = "sandbag_3"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"dR" = (/obj/structure/safe,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"dS" = (/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plasteel/blueyellow,/area/f13/ruins)
+"dT" = (/turf/open/floor/plasteel/blueyellow,/area/f13/ruins)
+"dU" = (/obj/structure/closet/fridge,/turf/open/floor/plasteel/blueyellow,/area/f13/ruins)
+"dV" = (/obj/structure/guncase/shotgun,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"dW" = (/obj/item/weapon/gun/ballistic/automatic/pistol/n99,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"dX" = (/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"dY" = (/obj/structure/tires/five,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"dZ" = (/obj/item/weapon/wrench,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ea" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/cheesie,/obj/item/crafting/turpentine,/turf/open/floor/plating,/area/f13/vault)
+"eb" = (/obj/item/weapon/shard{icon_state = "small"},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"ec" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin{tag = "icon-tin (NORTH)"; icon_state = "tin"; dir = 1},/turf/open/floor/plating,/area/f13/vault)
+"ed" = (/obj/effect/decal/cleanable/dirt,/obj/vehicle/janicart,/turf/open/floor/plasteel/vault,/area/f13/vault)
+"ee" = (/obj/item/trash/f13/mre,/turf/open/floor/plating,/area/f13/vault)
+"ef" = (/obj/effect/decal/cleanable/blood/old,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/machete,/turf/open/floor/plating,/area/f13/vault)
+"eg" = (/obj/effect/decal/cleanable/dirt,/obj/structure/barricade_m/sandbags{icon_state = "sandbag_1"; dir = 2},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"eh" = (/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"ei" = (/obj/structure/table/wood/settler,/obj/machinery/light/small/red{tag = "icon-red1 (EAST)"; icon_state = "red1"; dir = 4},/obj/item/device/flashlight,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"ej" = (/obj/item/weapon/gun/ballistic/revolver/nagant,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"ek" = (/mob/living/simple_animal/hostile/ghoul/glowing,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"el" = (/obj/effect/decal/cleanable/waste,/obj/machinery/light/small/red{tag = "icon-red1 (EAST)"; icon_state = "red1"; dir = 4},/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"em" = (/obj/machinery/light/small/red{tag = "icon-red1 (EAST)"; icon_state = "red1"; dir = 4},/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plasteel/blueyellow,/area/f13/ruins)
+"en" = (/obj/structure/table/wood/settler,/obj/item/weapon/storage/fancy/rollingpapers,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"eo" = (/obj/machinery/light/small/red{tag = "icon-red1 (EAST)"; icon_state = "red1"; dir = 4},/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"ep" = (/obj/item/weapon/reagent_containers/food/drinks/flask/survival,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"eq" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small/red{tag = "icon-red1 (WEST)"; icon_state = "red1"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/vault)
+"er" = (/obj/structure/chair,/obj/effect/decal/cleanable/dirt,/obj/item/clothing/under/f13/gentlesuit,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"es" = (/obj/effect/decal/cleanable/dirt,/obj/structure/barricade/sandbags,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"et" = (/obj/structure/reagent_dispensers/barrel/four,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"eu" = (/obj/structure/table/wood/settler,/obj/item/device/camera_film,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"ev" = (/obj/structure/table/wood/settler,/obj/item/weapon/storage/fancy/donut_box,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"ew" = (/obj/structure/table/wood/settler,/obj/structure/table/wood/settler,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"ex" = (/obj/machinery/hydroponics/constructable,/turf/open/floor/plasteel/blueyellow,/area/f13/ruins)
+"ey" = (/obj/item/ammo_box/c10mm,/obj/structure/table/wood/settler,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"ez" = (/obj/structure/table/wood/settler,/obj/item/clothing/suit/f13/mantle_liz,/obj/item/weapon/circuitboard/machine/microwave,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"eA" = (/turf/closed/wall/rust,/area/f13/tunnel)
+"eB" = (/obj/item/device/camera,/obj/item/device/camera_film,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"eC" = (/obj/effect/mob_spawner/molerat,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"eD" = (/obj/structure/bed,/obj/effect/decal/cleanable/dirt,/obj/item/clothing/head/flatcap,/turf/open/floor/plating,/area/f13/vault)
+"eE" = (/obj/structure/closet/body_bag,/obj/effect/decal/cleanable/dirt,/obj/item/crafting/reloader,/obj/structure/light_construct{tag = "icon-tube-construct-stage1 (NORTH)"; icon_state = "tube-construct-stage1"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/vault)
+"eF" = (/obj/structure/rack,/obj/item/weapon/reagent_containers/pill/patch/radaway,/obj/item/weapon/reagent_containers/pill/patch/radaway,/obj/item/weapon/reagent_containers/pill/patch/radaway,/obj/item/weapon/reagent_containers/pill/patch/radaway,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating,/area/f13/vault)
+"eG" = (/obj/structure/chair{tag = "icon-chair (EAST)"; icon_state = "chair"; dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"eH" = (/obj/structure/campfire,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"eI" = (/obj/structure/chair{tag = "icon-chair (WEST)"; icon_state = "chair"; dir = 8},/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"eJ" = (/obj/structure/closet/cardboard,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"eK" = (/obj/structure/table,/obj/item/weapon/reagent_containers/pill/patch/medx,/obj/effect/decal/cleanable/dirt,/obj/item/clothing/head/curator,/turf/open/floor/plating,/area/f13/vault)
+"eL" = (/obj/structure/closet,/obj/effect/decal/cleanable/dirt,/obj/effect/spawner/lootdrop/clothing_middle,/turf/open/floor/plating,/area/f13/vault)
+"eM" = (/obj/item/weapon/bedsheet/blue,/obj/structure/bed,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating,/area/f13/vault)
+"eN" = (/obj/structure/simple_door/wood,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"eO" = (/obj/structure/door_assembly/door_assembly_vault,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"eP" = (/obj/structure/decoration/clock/old,/turf/closed/wall/r_wall/rust,/area/f13/ruins)
+"eQ" = (/obj/structure/simple_door/fakeglass,/turf/open/floor/plasteel/blueyellow,/area/f13/ruins)
+"eR" = (/obj/structure/simple_door/fakeglass,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"eS" = (/obj/effect/spawner/lootdrop/trash,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"eT" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/f13/tin,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"eU" = (/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plating,/area/f13/vault)
+"eV" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating,/area/f13/vault)
+"eW" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/electronics/airalarm,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"eX" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/candy,/obj/item/trash/f13/mechanist,/turf/open/floor/plating,/area/f13/vault)
+"eY" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"eZ" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"fa" = (/obj/item/weapon/reagent_containers/food/snacks/grown/mutfruit,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"fb" = (/obj/item/clothing/head/helmet/f13/tribal,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fc" = (/obj/effect/decal/cleanable/dirt,/obj/item/clothing/under/f13/rag,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fd" = (/obj/effect/decal/cleanable/dirt,/obj/structure/barricade_m/sandbags{icon_state = "sandbag_3"; dir = 2},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"fe" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"ff" = (/obj/machinery/vending/nukacolavend,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb/cobweb2,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fg" = (/obj/item/trash/f13/tin,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"fh" = (/obj/effect/decal/cleanable/generic,/obj/item/crafting/large_gear,/turf/open/floor/plating,/area/f13/vault)
+"fi" = (/obj/structure/cable{tag = "icon-1-2"; icon_state = "1-2"},/turf/open/floor/plating,/area/f13/vault)
+"fj" = (/turf/open/floor/plating,/area/f13/vault)
+"fk" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small{tag = "icon-bulb1 (WEST)"; icon_state = "bulb1"; dir = 8},/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"fl" = (/obj/effect/decal/cleanable/dirt,/obj/structure/decoration/vent,/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"fm" = (/obj/item/door_key,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fn" = (/obj/item/organ/tongue,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fo" = (/obj/item/device/radio,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fp" = (/obj/item/weapon/wirerod,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"fq" = (/obj/machinery/clonepod,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"fr" = (/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/obj/machinery/computer/cloning,/turf/open/floor/plasteel/white,/area/f13/vault)
+"fs" = (/obj/machinery/dna_scannernew,/turf/open/floor/plasteel/white,/area/f13/vault)
+"ft" = (/obj/item/crafting/transistor,/turf/open/floor/plating,/area/f13/vault)
+"fu" = (/turf/open/floor/plasteel/white,/area/f13/vault)
+"fv" = (/obj/structure/spider,/obj/item/crafting/transistor,/turf/open/floor/plating,/area/f13/vault)
+"fw" = (/obj/item/trash/candy,/obj/machinery/light/small/red{tag = "icon-red1 (NORTH)"; icon_state = "red1"; dir = 1},/obj/item/clothing/under/f13/combat,/obj/item/weapon/gun/ballistic/shotgun/rifle,/turf/open/floor/plasteel/white,/area/f13/vault)
+"fx" = (/obj/machinery/iv_drip,/turf/open/floor/plasteel/white,/area/f13/vault)
+"fy" = (/turf/open/floor/plating/tunnel,/area/f13/vault)
+"fz" = (/obj/structure/spider,/obj/machinery/light/small/red{tag = "icon-red1 (NORTH)"; icon_state = "red1"; dir = 1},/turf/open/floor/plasteel/white,/area/f13/vault)
+"fA" = (/obj/structure/spider,/obj/item/weapon/hammer,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"fB" = (/obj/machinery/light/small/red{tag = "icon-red1 (NORTH)"; icon_state = "red1"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/vault)
+"fC" = (/obj/item/weapon/gun/energy/plasma/tri,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"fD" = (/obj/structure/janitorialcart,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/vault,/area/f13/ruins)
+"fE" = (/obj/effect/decal/cleanable/dirt,/obj/structure/frame/computer,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fF" = (/obj/structure/reagent_dispensers/barrel/two,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fG" = (/obj/structure/curtain,/obj/effect/decal/cleanable/dirt,/obj/structure/decoration/rag,/turf/open/floor/plasteel/loadingarea,/area/f13/ruins)
+"fH" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/circuitboard/machine/hydroponics,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fI" = (/obj/structure/bonfire,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fJ" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small{tag = "icon-bulb1 (EAST)"; icon_state = "bulb1"; dir = 4},/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fK" = (/obj/machinery/light/small/red{tag = "icon-red1 (WEST)"; icon_state = "red1"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"fL" = (/obj/item/crafting/turpentine,/mob/living/simple_animal/hostile/protectron,/turf/open/floor/plasteel/delivery,/area/f13/vault)
+"fM" = (/obj/structure/chair,/turf/open/floor/plasteel/white,/area/f13/vault)
+"fN" = (/obj/structure/spider,/obj/item/chair/stool,/obj/structure/light_construct{tag = "icon-tube-construct-stage1 (EAST)"; icon_state = "tube-construct-stage1"; dir = 4},/turf/open/floor/plasteel/white,/area/f13/vault)
+"fO" = (/obj/structure/frame/computer,/turf/open/floor/plating,/area/f13/vault)
+"fP" = (/obj/structure/showcase/horrific_experiment,/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/turf/open/floor/plasteel/delivery,/area/f13/vault)
+"fQ" = (/obj/effect/decal/cleanable/dirt,/obj/structure/barricade_m/sandbags{icon_state = "sandbag_1"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"fR" = (/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/obj/item/clothing/head/helmet/power_armor/t60,/obj/item/clothing/suit/armor/f13/power_armor/t60,/obj/item/clothing/under/f13/recon,/turf/open/floor/plasteel/delivery,/area/f13/vault)
+"fS" = (/obj/item/clothing/under/f13/bdu,/turf/open/floor/plasteel/white,/area/f13/vault)
+"fT" = (/obj/machinery/clonepod,/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/turf/open/floor/plasteel/delivery,/area/f13/vault)
+"fU" = (/obj/item/bodybag,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"fV" = (/obj/structure/tires/five,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"fW" = (/obj/structure/barricade_m/sandbags{icon_state = "sandbag_0"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"fX" = (/obj/item/lock,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"fY" = (/obj/item/clothing/head/helmet/f13/motorcycle,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"fZ" = (/obj/item/crafting/reloader,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ga" = (/obj/item/device/geiger_counter,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"gb" = (/obj/structure/table_frame,/obj/item/roller,/obj/item/weapon/circular_saw,/obj/item/weapon/hemostat,/obj/item/weapon/surgicaldrill,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"gc" = (/turf/open/floor/plasteel/whitebot,/area/f13/vault)
+"gd" = (/obj/machinery/computer/scan_consolenew,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"ge" = (/obj/structure/spider,/turf/open/floor/plasteel/white,/area/f13/vault)
+"gf" = (/obj/item/weapon/ectoplasm,/turf/open/floor/plating,/area/f13/vault)
+"gg" = (/obj/item/weapon/electronics/apc,/obj/item/weapon/machete,/obj/structure/chair{tag = "icon-chair (NORTH)"; icon_state = "chair"; dir = 1},/turf/open/floor/plasteel/white,/area/f13/vault)
+"gh" = (/obj/item/crafting/switch,/turf/open/floor/plasteel/whitebot,/area/f13/vault)
+"gi" = (/obj/structure/spider,/obj/item/trash/f13/mechanist,/turf/open/floor/plating,/area/f13/vault)
+"gj" = (/obj/structure/spider,/mob/living/simple_animal/hostile/protectron,/turf/open/floor/plasteel/white,/area/f13/vault)
+"gk" = (/obj/structure/chair{tag = "icon-chair (WEST)"; icon_state = "chair"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/vault)
+"gl" = (/obj/structure/reagent_dispensers/barrel/dangerous,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"gm" = (/obj/structure/barricade/wooden,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"gn" = (/obj/item/weapon/newspaper{desc = "The Wunardian 2077."; name = "doomsday newspaper"},/obj/item/weapon/light/tube,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"go" = (/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"gp" = (/obj/structure/chair/wood,/obj/item/clothing/suit/f13/mantle_liz,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"gq" = (/obj/structure/closet/crate/freezer,/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"gr" = (/obj/machinery/food_cart,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"gs" = (/obj/structure/reagent_dispensers/barrel/dangerous,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"gt" = (/obj/structure/table/wood/settler,/obj/item/stack/rods,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"gu" = (/obj/structure/table/wood/settler,/obj/item/clothing/head/welding,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/circuitboard/machine/sleeper,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"gv" = (/obj/structure/table/wood/settler,/obj/item/weapon/twohanded/sledgehammer,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/blue,/area/f13/ruins)
+"gw" = (/turf/closed/indestructible/f13/obsidian,/area/f13/tunnel)
+"gx" = (/obj/item/trash/f13/mechanist,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"gy" = (/obj/item/clothing/head/flatcap,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"gz" = (/obj/structure/cable{tag = "icon-1-2-f"; icon_state = "1-2-f"},/turf/open/floor/plating,/area/f13/vault)
+"gA" = (/obj/structure/barricade/sandbags,/turf/open/floor/plating,/area/f13/vault)
+"gB" = (/obj/structure/barricade/sandbags,/turf/open/floor/plasteel/white,/area/f13/vault)
+"gC" = (/obj/structure/curtain,/turf/open/floor/plating,/area/f13/vault)
+"gD" = (/obj/structure/curtain,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"gE" = (/turf/closed/wall/r_wall/rust,/area/f13/caves)
+"gF" = (/turf/closed/wall/rust,/area/f13/caves)
+"gG" = (/obj/effect/decal/cleanable/dirt,/obj/structure/decoration/vent,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"gH" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"gI" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small{tag = "icon-bulb1 (EAST)"; icon_state = "bulb1"; dir = 4},/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"gJ" = (/obj/item/weapon/circuitboard/machine/circuit_imprinter,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"gK" = (/obj/structure/light_construct{tag = "icon-tube-construct-stage1 (NORTH)"; icon_state = "tube-construct-stage1"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"gL" = (/obj/item/device/flashlight,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"gM" = (/obj/structure/simple_door/metal/ventilation,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"gN" = (/obj/structure/tank_dispenser/oxygen,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"gO" = (/obj/structure/spider,/obj/item/trash/can,/turf/open/floor/plating,/area/f13/vault)
+"gP" = (/obj/structure/spider,/turf/open/floor/plating,/area/f13/vault)
+"gQ" = (/obj/item/ammo_box/c10mm,/turf/open/floor/plasteel/white,/area/f13/vault)
+"gR" = (/obj/structure/cable{tag = "icon-1-2"; icon_state = "1-2"},/turf/open/floor/plating/tunnel,/area/f13/vault)
+"gS" = (/obj/item/clothing/under/f13/navy,/turf/open/floor/plating,/area/f13/vault)
+"gT" = (/obj/structure/fireaxecabinet{step_y = 0},/turf/open/floor/plasteel/white,/area/f13/vault)
+"gU" = (/obj/item/weapon/gun/ballistic/shotgun,/turf/open/floor/plating,/area/f13/vault)
+"gV" = (/obj/structure/bonfire,/turf/open/floor/plasteel/white,/area/f13/vault)
+"gW" = (/obj/item/chair,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"gX" = (/obj/item/weapon/golf10,/turf/open/floor/plating,/area/f13/vault)
+"gY" = (/mob/living/simple_animal/hostile/protectron,/turf/open/floor/plating,/area/f13/vault)
+"gZ" = (/turf/closed/wall/f13/wood,/area/f13/vault)
+"ha" = (/obj/structure/bookcase/random,/turf/open/floor/f13,/area/f13/caves)
+"hb" = (/obj/item/weapon/restraints/legcuffs/bola/tribal,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hc" = (/obj/effect/decal/cleanable/oil,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hd" = (/obj/item/clothing/head/helmet/f13/firefighter,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"he" = (/obj/effect/decal/cleanable/dirt,/obj/item/clothing/under/f13/doctor,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"hf" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"hg" = (/turf/open/floor/plating/tunnel{icon_state = "tunnelchess2"},/area/f13/caves)
+"hh" = (/turf/closed/wall/r_wall/rust,/area/f13/tunnel)
+"hi" = (/obj/machinery/light/small/red{tag = "icon-red1 (WEST)"; icon_state = "red1"; dir = 8},/obj/item/weapon/circuitboard/machine/mech_recharger,/turf/open/floor/plating,/area/f13/vault)
+"hj" = (/obj/structure/cable{tag = "icon-1-4"; icon_state = "1-4"},/turf/open/floor/plating,/area/f13/vault)
+"hk" = (/obj/structure/spider,/obj/item/weapon/harpoon,/obj/item/trash/f13/mechanist,/turf/open/floor/plasteel/white,/area/f13/vault)
+"hl" = (/obj/item/weapon/gun/ballistic/shotgun/rifle,/turf/open/floor/plasteel/white,/area/f13/vault)
+"hm" = (/obj/item/crafting/switch,/turf/open/floor/plasteel/white,/area/f13/vault)
+"hn" = (/obj/item/roller,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"ho" = (/obj/machinery/door/airlock/vault,/turf/open/floor/f13,/area/f13/vault)
+"hp" = (/mob/living/simple_animal/hostile/protectron,/turf/open/floor/f13,/area/f13/caves)
+"hq" = (/turf/open/floor/f13,/area/f13/caves)
+"hr" = (/obj/structure/fluff/paper/stack,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/blood/splatter,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hs" = (/obj/machinery/light/small/red{dir = 1},/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"ht" = (/obj/item/device/radio,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"hu" = (/obj/item/weapon/ectoplasm,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"hv" = (/mob/living/simple_animal/hostile/protectron,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"hw" = (/obj/item/trash/can,/turf/open/floor/plating,/area/f13/vault)
+"hx" = (/obj/item/clothing/under/f13/mechanic,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"hy" = (/obj/machinery/light/small/red,/turf/open/floor/plasteel/white,/area/f13/vault)
+"hz" = (/obj/item/roller,/turf/open/floor/plating,/area/f13/vault)
+"hA" = (/obj/item/ring,/mob/living/simple_animal/hostile/protectron,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"hB" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/blood/tracks,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hC" = (/obj/structure/tires/two,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hD" = (/obj/structure/reagent_dispensers/barrel/dangerous,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"hE" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"hF" = (/obj/item/weapon/light/bulb,/obj/item/weapon/storage/photo_album,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/ruins)
+"hG" = (/obj/item/clothing/head/cone,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hH" = (/obj/structure/curtain,/obj/item/weapon/golf9,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"hI" = (/obj/structure/curtain,/turf/open/floor/plasteel/white,/area/f13/vault)
+"hJ" = (/obj/structure/simple_door/metal/barred,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/blood/tracks,/obj/structure/decoration/rag,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hK" = (/obj/structure/barricade/bars,/obj/effect/decal/cleanable/dirt,/obj/structure/decoration/rag,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hL" = (/obj/structure/barricade/bars,/obj/structure/decoration/rag,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hM" = (/obj/structure/simple_door/metal/barred,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hN" = (/obj/structure/table,/obj/item/weapon/gun/ballistic/automatic/pistol/n99,/turf/open/floor/plating,/area/f13/vault)
+"hO" = (/obj/structure/table,/obj/item/ammo_box/c10mm,/turf/open/floor/plating,/area/f13/vault)
+"hP" = (/obj/item/blueprint/n99,/obj/item/weapon/circuitboard/mecha/ripley/main,/turf/open/floor/plasteel/white,/area/f13/vault)
+"hQ" = (/turf/open/floor/plating/tunnel,/area/f13/caves)
+"hR" = (/obj/item/ammo_casing,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"hS" = (/obj/structure/closet/firecloset,/turf/open/floor/f13{dir = 9; icon_state = "warndark"},/area/f13/caves)
+"hT" = (/obj/structure/table,/obj/item/device/geiger_counter,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"hU" = (/turf/open/floor/plasteel/delivery,/area/f13/vault)
+"hV" = (/obj/structure/table,/obj/item/bodybag,/obj/item/weapon/circuitboard/machine/mechfab,/turf/open/floor/plating,/area/f13/vault)
+"hW" = (/obj/structure/AIcore{anchored = 1},/turf/open/floor/plasteel/delivery,/area/f13/vault)
+"hX" = (/obj/item/chair,/turf/open/floor/plating,/area/f13/vault)
+"hY" = (/obj/machinery/clonepod{tag = "icon-pod_0_maintenance"; icon_state = "pod_0_maintenance"},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/obj/structure/window/reinforced,/turf/open/floor/plasteel/delivery,/area/f13/vault)
+"hZ" = (/obj/machinery/vending/wallmed{step_x = 0},/obj/item/clothing/under/f13/bdu,/turf/open/floor/plasteel/white,/area/f13/vault)
+"ia" = (/obj/machinery/limbgrower,/turf/open/floor/plasteel/delivery,/area/f13/vault)
+"ib" = (/obj/item/clothing/under/f13/combat,/obj/item/weapon/gun/ballistic/shotgun/pipe,/turf/open/floor/plasteel/white,/area/f13/vault)
+"ic" = (/obj/effect/decal/cleanable/blood/tracks,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"id" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ie" = (/turf/open/floor/f13{dir = 1; icon_state = "warndark"},/area/f13/caves)
+"if" = (/obj/item/device/radio,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ig" = (/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"ih" = (/obj/structure/rack,/obj/machinery/light/small/red{tag = "icon-red1 (EAST)"; icon_state = "red1"; dir = 4},/obj/item/crafting/duct_tape,/obj/item/crafting/diode,/obj/item/crafting/capacitor,/obj/item/crafting/board,/obj/item/crafting/abraxo,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ii" = (/obj/machinery/chem_master,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"ij" = (/obj/structure/table,/obj/machinery/light,/obj/item/weapon/holodisk/abducted,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"ik" = (/obj/machinery/chem_dispenser/constructable,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"il" = (/obj/machinery/light/small/red,/turf/open/floor/plating,/area/f13/vault)
+"im" = (/obj/structure/rack,/turf/open/floor/f13{dir = 5; icon_state = "warndark"},/area/f13/caves)
+"in" = (/obj/machinery/light,/turf/open/floor/plating/tunnel,/area/f13/vault)
+"io" = (/obj/machinery/light/small/red,/obj/item/bodybag,/turf/open/floor/plasteel/white,/area/f13/vault)
+"ip" = (/mob/living/simple_animal/hostile/protectron,/turf/open/floor/plasteel/white,/area/f13/vault)
+"iq" = (/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/radroach,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ir" = (/obj/item/crafting/frame,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"is" = (/obj/item/clothing/under/f13/villain,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"it" = (/obj/structure/tires/half,/turf/open/floor/plating/ashplanet/wateryrock,/area/f13/tunnel)
+"iu" = (/obj/structure/fence,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iv" = (/obj/item/clothing/head/cone,/obj/machinery/light/small/red{tag = "icon-red1 (NORTH)"; icon_state = "red1"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iw" = (/obj/structure/closet/cardboard,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ix" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small/red{tag = "icon-red1 (NORTH)"; icon_state = "red1"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iy" = (/obj/effect/decal/cleanable/dirt,/obj/item/ammo_casing{tag = "icon-s-casing (WEST)"; icon_state = "s-casing"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iz" = (/obj/item/weapon/shard,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iA" = (/obj/structure/decoration/hatch{tag = "icon-hatch (NORTH)"; icon_state = "hatch"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iB" = (/obj/item/areaeditor/blueprints,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iC" = (/obj/item/ammo_casing{tag = "icon-s-casing (WEST)"; icon_state = "s-casing"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iD" = (/obj/item/ammo_casing,/obj/item/ammo_casing{tag = "icon-s-casing (WEST)"; icon_state = "s-casing"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iE" = (/obj/item/ammo_casing{tag = "icon-s-casing (SOUTHEAST)"; icon_state = "s-casing"; dir = 6},/obj/item/ammo_casing{tag = "icon-s-casing (WEST)"; icon_state = "s-casing"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iF" = (/obj/effect/decal/remains/human,/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"iG" = (/turf/closed/mineral,/area/f13/caves)
+"iH" = (/obj/structure/ore_box,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iI" = (/obj/structure/safe,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iJ" = (/obj/structure/table/wood/settler,/obj/item/crafting/duct_tape,/obj/item/clothing/glasses/eyepatch,/obj/item/clothing/under/color/red,/obj/item/clothing/suit/armor/f13/power_armor/t51b,/obj/item/clothing/head/helmet/power_armor/t51b,/obj/item/clothing/under/f13/recon,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iK" = (/obj/structure/table/wood/settler,/obj/effect/spawner/lootdrop/food,/obj/item/clothing/head/cage,/obj/structure/light_construct{tag = "icon-tube-construct-stage1 (NORTH)"; icon_state = "tube-construct-stage1"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iL" = (/turf/closed/wall/f13/wood,/area/f13/tunnel)
+"iM" = (/obj/machinery/portable_atmospherics/canister/air,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iN" = (/obj/item/crafting/bulb,/obj/item/crafting/bulb,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iO" = (/obj/effect/spawner/lootdrop/trash,/obj/structure/light_construct{tag = "icon-tube-construct-stage1 (NORTH)"; icon_state = "tube-construct-stage1"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iP" = (/obj/machinery/portable_atmospherics/canister/water_vapor,/obj/item/crafting/board,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iQ" = (/mob/living/simple_animal/hostile/radroach,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iR" = (/obj/item/clothing/head/radiation,/obj/item/clothing/suit/radiation,/obj/effect/decal/cleanable/dirt,/obj/item/ammo_casing{tag = "icon-s-casing (WEST)"; icon_state = "s-casing"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iS" = (/obj/item/weapon/spear,/obj/item/clothing/head/helmet/f13/broken,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iT" = (/obj/item/weapon/shard{icon_state = "small"},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iU" = (/mob/living/simple_animal/hostile/eyebot,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iV" = (/obj/item/ammo_casing,/obj/item/ammo_casing{tag = "icon-s-casing (EAST)"; icon_state = "s-casing"; dir = 4},/obj/item/ammo_casing{tag = "icon-s-casing (WEST)"; icon_state = "s-casing"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iW" = (/obj/item/ammo_casing{tag = "icon-s-casing (NORTHWEST)"; icon_state = "s-casing"; dir = 9},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iX" = (/obj/structure/simple_door/wood,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iY" = (/obj/item/crafting/igniter,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"iZ" = (/obj/item/clothing/glasses/welding,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ja" = (/mob/living/simple_animal/hostile/cazador,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jb" = (/obj/structure/decoration/vent,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jc" = (/obj/item/clothing/head/cone,/obj/item/ammo_casing{tag = "icon-s-casing (NORTH)"; icon_state = "s-casing"; dir = 1},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jd" = (/obj/effect/decal/cleanable/dirt,/obj/structure/bus_door,/obj/item/ammo_casing,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"je" = (/obj/item/ammo_casing,/mob/living/carbon/human,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jf" = (/obj/item/ammo_casing{tag = "icon-s-casing (SOUTHWEST)"; icon_state = "s-casing"; dir = 10},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jg" = (/obj/item/weapon/shard{icon_state = "medium"},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jh" = (/obj/item/clothing/gloves/combat,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ji" = (/obj/structure/chair{tag = "icon-chair (EAST)"; icon_state = "chair"; dir = 4},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jj" = (/obj/item/clothing/under/f13/settler,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jk" = (/obj/machinery/light{tag = "icon-tube1 (WEST)"; icon_state = "tube1"; dir = 8},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jl" = (/turf/open/floor/plating/ashplanet/wateryrock,/area/f13/tunnel)
+"jm" = (/turf/open/floor/plating/tunnel{icon_state = "tunnelchess"},/area/f13/caves)
+"jn" = (/obj/item/crafting/duct_tape,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jo" = (/obj/effect/spawner/lootdrop/trash,/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jp" = (/obj/structure/bus_door,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jq" = (/obj/structure/simple_door/metal/barred,/turf/open/floor/plating/tunnel,/area/f13/caves)
+"jr" = (/obj/item/ammo_casing{tag = "icon-s-casing (WEST)"; icon_state = "s-casing"; dir = 8},/obj/item/ammo_casing,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"js" = (/obj/structure/chair,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jt" = (/mob/living/simple_animal/hostile/ghoul,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ju" = (/obj/item/weapon/pipe,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jv" = (/obj/structure/tires/half,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jw" = (/obj/machinery/light/small/red,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jx" = (/obj/effect/decal/cleanable/dirt,/obj/structure/decoration/hatch,/obj/item/ammo_casing,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jy" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jz" = (/obj/item/device/radio,/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small/red,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jA" = (/obj/structure/table/wood/settler,/obj/item/clothing/under/f13/dbdu,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jB" = (/turf/open/floor/f13{icon_state = "darkrustysolid"},/area/f13/caves)
+"jC" = (/obj/item/weapon/twohanded/baseball,/obj/structure/table/wood/settler,/obj/item/ammo_box/c10mm,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jD" = (/obj/machinery/light/small/red,/obj/item/blueprint/assault_rifle,/obj/item/weapon/circuitboard/machine/autolathe,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jE" = (/obj/item/crafting/duct_tape,/obj/item/blueprint/laser_tri,/obj/item/weapon/circuitboard/machine/biogenerator,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jF" = (/obj/structure/window/fulltile/wood,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jG" = (/obj/structure/table,/obj/item/weapon/screwdriver,/turf/open/floor/f13{dir = 4; icon_state = "warndark"},/area/f13/caves)
+"jH" = (/obj/item/weapon/reagent_containers/food/snacks/egg,/turf/open/floor/plating/ashplanet/wateryrock,/area/f13/tunnel)
+"jI" = (/obj/structure/rack,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jJ" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jK" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/trash,/turf/open/floor/plating/ashplanet/wateryrock,/area/f13/tunnel)
+"jL" = (/obj/effect/mob_spawner/molerat,/turf/open/floor/plating/ashplanet/wateryrock,/area/f13/tunnel)
+"jM" = (/obj/item/weapon/screwdriver/brass,/turf/open/floor/plating/tunnel,/area/f13/caves)
+"jN" = (/turf/open/floor/f13{dir = 8; icon_state = "warndark"},/area/f13/caves)
+"jO" = (/turf/open/floor/f13{icon_state = "darkdirty"},/area/f13/caves)
+"jP" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/open/floor/f13{dir = 4; icon_state = "warndark"},/area/f13/caves)
+"jQ" = (/obj/machinery/light/small/red{dir = 8},/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"jR" = (/obj/structure/table,/turf/open/floor/f13{dir = 8; icon_state = "warndark"},/area/f13/caves)
+"jS" = (/turf/open/floor/holofloor/beach/water,/area/f13/tunnel)
+"jT" = (/obj/effect/spawner/lootdrop/trash,/turf/open/floor/holofloor/beach/water,/area/f13/tunnel)
+"jU" = (/obj/machinery/portable_atmospherics/canister/air,/turf/open/floor/holofloor/beach/water,/area/f13/tunnel)
+"jV" = (/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jW" = (/obj/structure/fence/door,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"jX" = (/turf/closed/wall/f13/ruins,/area/f13/bunker)
+"jY" = (/obj/item/wallframe/extinguisher_cabinet,/turf/closed/wall/f13/ruins,/area/f13/bunker)
+"jZ" = (/turf/closed/wall/f13/wood,/area/f13/bunker)
+"ka" = (/obj/structure/simple_door/bunker,/turf/open/floor/plating/tunnel,/area/f13/bunker)
+"kb" = (/turf/open/floor/plating/tunnel,/area/f13/bunker)
+"kc" = (/obj/structure/bookcase,/turf/open/floor/plating/tunnel,/area/f13/bunker)
+"kd" = (/obj/structure/rack,/obj/item/stack/sheet/metal{amount = 23},/obj/effect/decal/cleanable/cobweb/cobweb2,/turf/open/floor/plating/tunnel,/area/f13/bunker)
+"ke" = (/turf/closed/wall/f13/tunnel,/area/f13/bunker)
+"kf" = (/obj/item/weapon/tireiron,/turf/open/floor/plating/tunnel,/area/f13/bunker)
+"kg" = (/obj/structure/decoration/vent,/turf/open/floor/plating/tunnel,/area/f13/bunker)
+"kh" = (/obj/structure/ladder{height = -1; id = 311; in_use = 311},/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"ki" = (/obj/machinery/autolathe,/turf/open/floor/plating/tunnel,/area/f13/bunker)
+"kj" = (/obj/item/weapon/crowbar,/obj/machinery/light/small,/obj/structure/table/wood/settler,/turf/open/floor/plating/tunnel,/area/f13/bunker)
+"kk" = (/obj/structure/table/wood/settler,/obj/item/weapon/reagent_containers/food/snacks/grown/mutfruit,/turf/open/floor/plating/tunnel,/area/f13/bunker)
+"kl" = (/obj/machinery/light,/turf/open/floor/plating/tunnel,/area/f13/tunnel)
+"km" = (/turf/closed/indestructible/rock,/area/f13/caves)
+"kn" = (/turf/open/indestructible/ground/desert,/area/f13/wasteland)
+"ko" = (/obj/structure/closet/crate/engineering,/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"kp" = (/turf/open/floor/f13{dir = 4; icon_state = "warndark"},/area/f13/caves)
+"kq" = (/obj/structure/decoration/vent/rusty{icon_state = "ventrustyalt"; pixel_y = 32},/turf/open/floor/plating/tunnel{icon_state = "tunnelchess2"},/area/f13/caves)
+"kr" = (/turf/open/floor/plating/tunnel{icon_state = "tunnelwastelandfullvar"},/area/f13/caves)
+"ks" = (/obj/structure/table,/turf/open/floor/f13{dir = 10; icon_state = "warndark"},/area/f13/caves)
+"kt" = (/turf/open/floor/f13{icon_state = "warndark"},/area/f13/caves)
+"ku" = (/turf/open/floor/f13{dir = 6; icon_state = "warndark"},/area/f13/caves)
+"kv" = (/turf/open/floor/plating/tunnel{icon_state = "tunnelwastelandfull"},/area/f13/caves)
+"kw" = (/obj/structure/simple_door/blast,/turf/open/floor/f13{icon_state = "darkrustysolid"},/area/f13/caves)
+"kx" = (/obj/structure/table_frame,/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"ky" = (/turf/open/floor/f13{dir = 9; icon_state = "warndark"},/area/f13/caves)
+"kz" = (/turf/open/floor/f13{icon_state = "dark"},/area/f13/caves)
+"kA" = (/turf/open/floor/f13{dir = 5; icon_state = "warndark"},/area/f13/caves)
+"kB" = (/obj/machinery/light/small{dir = 4},/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"kC" = (/obj/structure/decoration/vent/rusty{pixel_y = 32},/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"kD" = (/obj/machinery/light/small/red{dir = 8},/turf/open/floor/plating/tunnel{icon_state = "tunnelchess"},/area/f13/caves)
+"kE" = (/obj/machinery/light/small{dir = 8},/turf/open/floor/f13{dir = 8; icon_state = "warndark"},/area/f13/caves)
+"kF" = (/obj/machinery/light/small/red,/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"kG" = (/obj/structure/simple_door/blast,/turf/open/floor/plating/tunnel,/area/f13/caves)
+"kH" = (/obj/structure/table,/obj/item/weapon/screwdriver,/turf/open/floor/plating/tunnel{icon_state = "tunnelchess2"},/area/f13/caves)
+"kI" = (/obj/structure/table,/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"kJ" = (/obj/structure/table,/obj/item/weapon/wrench,/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"kK" = (/turf/open/floor/f13{dir = 4; icon_state = "warndarkcorner"},/area/f13/caves)
+"kL" = (/turf/open/floor/f13{dir = 10; icon_state = "warndark"},/area/f13/caves)
+"kM" = (/turf/open/floor/f13{dir = 8; icon_state = "warndarkcorner"},/area/f13/caves)
+"kN" = (/obj/machinery/light/small{dir = 4},/turf/open/floor/f13{dir = 4; icon_state = "warndark"},/area/f13/caves)
+"kO" = (/obj/structure/rack,/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"kP" = (/obj/machinery/light/small{dir = 1},/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"kQ" = (/obj/structure/rack,/obj/item/weapon/screwdriver/power,/turf/open/floor/f13{icon_state = "darkdirty"},/area/f13/caves)
+"kR" = (/obj/machinery/light/small{dir = 1},/turf/open/floor/f13{icon_state = "darkdirty"},/area/f13/caves)
+"kS" = (/obj/structure/table/reinforced,/turf/open/floor/f13{dir = 9; icon_state = "warndark"},/area/f13/caves)
+"kT" = (/obj/structure/table/reinforced,/turf/open/floor/f13{dir = 1; icon_state = "warndark"},/area/f13/caves)
+"kU" = (/obj/structure/table/reinforced,/turf/open/floor/f13{dir = 5; icon_state = "warndark"},/area/f13/caves)
+"kV" = (/obj/machinery/light/small/red{dir = 8},/turf/open/floor/f13{dir = 8; icon_state = "warndark"},/area/f13/caves)
+"kW" = (/obj/structure/table/reinforced,/turf/open/floor/f13{dir = 8; icon_state = "warndark"},/area/f13/caves)
+"kX" = (/obj/structure/table/reinforced,/turf/open/floor/f13{dir = 4; icon_state = "warndark"},/area/f13/caves)
+"kY" = (/obj/structure/rack,/turf/open/floor/f13{icon_state = "darkdirty"},/area/f13/caves)
+"kZ" = (/obj/machinery/light/small/red{dir = 4},/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"la" = (/obj/machinery/light,/turf/open/floor/f13{icon_state = "warndark"},/area/f13/caves)
+"lb" = (/obj/structure/closet/toolcloset,/turf/open/floor/f13{dir = 9; icon_state = "warndark"},/area/f13/caves)
+"lc" = (/obj/machinery/light{dir = 1},/turf/open/floor/f13{dir = 1; icon_state = "warndark"},/area/f13/caves)
+"ld" = (/obj/structure/table,/obj/item/weapon/weldingtool,/turf/open/floor/f13{dir = 4; icon_state = "warndark"},/area/f13/caves)
+"le" = (/obj/structure/table,/turf/open/floor/f13{dir = 4; icon_state = "warndark"},/area/f13/caves)
+"lf" = (/obj/item/weapon/storage/toolbox/mechanical,/turf/open/floor/f13{dir = 6; icon_state = "warndark"},/area/f13/caves)
+"lg" = (/obj/structure/table_frame,/turf/open/floor/plating/tunnel{icon_state = "tunnelchess2"},/area/f13/caves)
+"lh" = (/turf/open/floor/f13{dir = 1; icon_state = "warndarkcorner"},/area/f13/caves)
+"li" = (/obj/structure/decoration/vent/rusty{icon_state = "ventrustyalt"; pixel_x = -32; pixel_y = -1},/turf/open/floor/plating/tunnel{icon_state = "tunnelwastelandfullvar"},/area/f13/caves)
+"lj" = (/turf/open/floor/f13{icon_state = "warndarkcorner"},/area/f13/caves)
+"lk" = (/obj/item/weapon/wrench/brass,/turf/open/floor/plating/tunnel{icon_state = "tunnelrusty"},/area/f13/caves)
+"ll" = (/obj/machinery/light/small/red{dir = 8},/turf/open/floor/plating/tunnel{icon_state = "tunnelchess2"},/area/f13/caves)
+"lm" = (/obj/structure/table,/obj/item/weapon/storage/firstaid,/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"ln" = (/obj/structure/table,/turf/open/floor/f13{icon_state = "darkdirty"},/area/f13/caves)
+"lo" = (/obj/structure/closet/crate/engineering/electrical,/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"lp" = (/obj/machinery/light/small/red{dir = 4},/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"lq" = (/obj/structure/table,/obj/item/weapon/krotchy,/turf/open/floor/f13{icon_state = "dark"},/area/f13/caves)
+"lr" = (/obj/machinery/light/small{dir = 1},/turf/open/floor/f13{icon_state = "dark"},/area/f13/caves)
+"ls" = (/obj/structure/closet/crate/bin,/turf/open/floor/f13{icon_state = "dark"},/area/f13/caves)
+"lt" = (/turf/open/floor/f13{icon_state = "darkdirtysolid"},/area/f13/caves)
+"lu" = (/obj/structure/closet/crate,/turf/open/floor/f13{icon_state = "darkdirty"},/area/f13/caves)
+"lv" = (/obj/structure/closet/toolcloset,/turf/open/floor/f13{icon_state = "darkdirty"},/area/f13/caves)
+"lw" = (/obj/structure/closet/firecloset,/turf/open/floor/f13{icon_state = "darkdirty"},/area/f13/caves)
+"lx" = (/obj/structure/table,/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"ly" = (/obj/machinery/light/small{dir = 4},/turf/open/floor/f13{icon_state = "darkdirty"},/area/f13/caves)
+"lz" = (/obj/machinery/light/small,/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"lA" = (/obj/structure/closet/crate/trashcart,/turf/open/floor/f13{icon_state = "dark"},/area/f13/caves)
+"lB" = (/obj/machinery/light/small/red,/turf/open/floor/f13{icon_state = "darkrusty"},/area/f13/caves)
+"lC" = (/obj/machinery/light{dir = 1},/turf/open/floor/f13{icon_state = "dark"},/area/f13/caves)
+"lD" = (/obj/structure/decoration/vent{icon_state = "ventorange"; pixel_y = 32},/turf/open/floor/f13{icon_state = "dark"},/area/f13/caves)
+"lE" = (/obj/item/weapon/crowbar/red,/turf/open/floor/f13{icon_state = "dark"},/area/f13/caves)
+"lF" = (/turf/closed/indestructible/f13/subway,/area/f13/caves)
+"lG" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaytopleft"},/area/f13/caves)
+"lH" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaytopmiddle"},/area/f13/caves)
+"lI" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaytunnelleft"},/area/f13/caves)
+"lJ" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaytunnelsupport"},/area/f13/caves)
+"lK" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaytunnelright"},/area/f13/caves)
+"lL" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaytopright"},/area/f13/caves)
+"lM" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaytopvent"},/area/f13/caves)
+"lN" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaybottom"},/area/f13/caves)
+"lO" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaybottomleft"},/area/f13/caves)
+"lP" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaybottommiddle"},/area/f13/caves)
+"lQ" = (/turf/closed/indestructible/f13/subway{icon_state = "subwaybottomright"},/area/f13/caves)
+"lR" = (/obj/machinery/light/small/red{dir = 8},/turf/open/floor/f13{icon_state = "warndark"},/area/f13/caves)
+"lS" = (/obj/machinery/light/small/red{dir = 4},/turf/open/floor/f13{icon_state = "warndark"},/area/f13/caves)
+"lT" = (/obj/structure/handrail/yellow{icon_state = "y_handrail12"},/turf/open/floor/f13{icon_state = "warndark"},/area/f13/caves)
+"lU" = (/obj/structure/handrail/yellow{icon_state = "y_handrail8"},/turf/open/floor/f13{dir = 6; icon_state = "warndark"},/area/f13/caves)
+"lV" = (/turf/open/floor/f13{icon_state = "rampuptop"},/area/f13/caves)
+"lW" = (/obj/structure/handrail/yellow{icon_state = "y_handrail4"},/turf/open/floor/f13{dir = 10; icon_state = "warndark"},/area/f13/caves)
+"lX" = (/obj/item/weapon/storage/toolbox/mechanical,/turf/open/floor/f13{icon_state = "warndark"},/area/f13/caves)
+"lY" = (/turf/open/indestructible/ground/subway,/area/f13/caves)
+"lZ" = (/obj/effect/decal/remains/human,/turf/open/indestructible/ground/subway,/area/f13/caves)
+"ma" = (/turf/open/indestructible/ground/subway{icon_state = "railsmiddle"},/area/f13/caves)
+"mb" = (/turf/open/indestructible/ground/subway{icon_state = "railsright"},/area/f13/caves)
+"mc" = (/turf/open/indestructible/ground/subway{icon_state = "railspair"},/area/f13/caves)
+"md" = (/turf/open/indestructible/ground/subway{icon_state = "railssingle"},/area/f13/caves)
+"me" = (/turf/open/indestructible/ground/subway{icon_state = "railsleft"},/area/f13/caves)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogqdAhghshQdAhSieigieimdAgoiFhQhggogodAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgojmjqgojmhQjBigigigigjGdAhQjmgogogojMdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogodAjmgohQdAjNigjOigjPdAdAdAdAjQgohgdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAhggodAdAhQdAdAjRigigkokpdAgokqgogokrgodAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogogodAjmgodAksktigktkudAgogogogohggodAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAjQkvgodAdAdAdAdAdAkwdAdAdAjqdAdAgogogodAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogojmdAkxkxgodAkykzkAdAgojmgodAjmgogodAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAjqdAdAhggokBdAjNkzkpdAkvgogodAdAdAdAdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogohgdAgojmgodAjNkzkpdAgogojmgohgkCgodAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAkDgogohQgogogodAkEkzkpdAgohgkFgogogojmdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAhggogodAgogohgdAjNkzkpdAdAdAdAdAdAgogodAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAkGdAdAkHgokBdAjNkzkpdAgohghsgojmgogodAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAhggogodAkIkJkIdAjNkzkpdAjmhQhggogogojmdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAkDgohgdAdAdAdAdAkEkzkpdAdAkwdAdAdAdAdAdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogogodAgohsgodAjNkzkKieiekzieieieiekAdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAjqdAdAhggokrdAjNkzkzkzkzkzkzkzkzkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAjmgogojmgogojmdAkLktktktktktktktkMkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogojmgogohggodAdAdAdAdAdAdAdAdAjNkzkNdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAdAdAdAdAgogodAkOkPkQdAkOkRkOdAjNkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAkSkTkTkUdAgogodAjOigigdAigjOigdAkVkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAkWkzkzkXdAjmgodAkOjOkOdAkYigkYdAjNkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAjNkzkzkpdAgokZdAdAjBdAdAdAjBdAdAjNkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAkLlakzkudAgohgdAlbkzielciekzkAdAjNkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAdAjBdAdAgogodAjRkzkzkzkzkzlddAkVkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAhggogogojmgogodAjRkzkzkzkzkzledAjNkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogogogogogogodAkLktktkzktktlfdAjNkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogodAdAdAdAdAdAdAdAdAjBdAdAdAdAjNkzkNdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAkDgodAgolggogodAkyieiekzieieieielhkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgohgdAgojmgohgdAkEkzkzkzkzkzkzkzkzkzkpdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogodAligogokZdAjNkzljktktktktktktktkudAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogodAgojmlkgodAjNkzkpdAdAdAdAdAdAdAdAdAababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAllgodAgogogokvdAjNkzkpdAkzkzdAjOlmlnlodAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogodAdAhQdAdAdAkEkzkpdAkzkzjBigjOjOlpdAlqkzkzlrkzkzkzkzkzkzlrkzkzkzkzkzkzdAaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgogogogogogojmdAjNkzkpdAkzkzdAjOigigjOdAlskzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzdAaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAgojmgogojmgogojBkzkzkzltkzkzdAdAdAdAdAdAkzkzkzdAdAdAdAdAdAdAltdAdAdAdAjBdAdAaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAjBdAdAdAjBdAdAjNkzkpdAkzkzlrkzkzkzkzlrkzkzkzdAlukPlvdAjOigigiglwdAjOigjOdAaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAigigigdAigigigdAdAjBdAdAkzkzkzkzkzkzkzkzkzkzkzdAlxigigjBigigjOiglydAlxjOlndAaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAkOlzkOdAkOlzkOdAlAkzkzdAdAdAdAdAdAdAdAdAdAdAdAdAlnlnigdAigjOigjOigdAlnlBlxdAaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAdAdAdAdAdAdAdAdAdAkzkzkzlCkzlDkzlCkzlEkzdAjBjBdAdAdAdAdAdAdAjBdAdAdAdAdAdAdAaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAlFlGlHlIlJlKlHlLlFdAkzkzkzkzljktkMkzkzkzkzdAlFlGlMlHlHlMlLlFdAltdAlFlGlHlHlLlFaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababablNlOlPlPlPlPlPlQlNlNlNlOlPlPlPlPlPlQlNlNlNlOlPlPlPlPlPlQlNlNlNlOlPlPlPlPlPlQlNdAlRktktktktktktktlSdAlTlTlTlTlUlVlWlTlTlTlTdAlRktktktlXktktktktktktktktktktktktaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababablYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlZlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababmamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamambmcmdlYmdmcmdmemamamamamamamamamaaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababablYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYlYaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababablNlOlPlPlPlPlPlQlNlNlNlOlPlPlPlPlPlQlNlNlNlOlPlPlPlPlPlQlNlNlNlOlPlPlPlPlPlQlNlNlNlOlPlPlPlPlPlQlNlNlNlOlPlPlPlPlPlPlPlQlNlNlNlOlPlPlPlPlPlPlPlPlPlPlPlPlPlQlNaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAdAaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababacadaecMagahahcMcMaiajakcMcMalamcMcMcMancMaoapaqacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababacaraecMasatcMauavcMcMcMawcMcMaxaycMalagazapapaAacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababacaBcMaCcMaDcMcMaFcMcMagcMaGaHaIaJcMeVcMeVaLapaMacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababacaNaOaPacacaQacacacaRaSaRacacacacacacaTacaUaJaVacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababacaWaWaWacaXaYaZacbabbaYbcbdacbebfcfacbhacbicMbjacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababacbkbkbkblaYbmaYbnbobpbqbrbsbtbubvbwbtaYaccMbxcjacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababacbzbAbAacbBaYaYbnbCbsbDbsbEacacacacbFbGacbHbIcjacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababbJbKbLbzacbMbNaYbnbsbObsbPbsbtbQbRbSbtaYacaJcMcjbTabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababbJbUbVbWacbXbYbZaccabsbscbccaccdcecfaccgacchcicjacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababckckclclclacblcmacaccncncocncnacacacacacacbTcpcqcrblacacacacacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababckclclclckacababcsctcucqcvcwcsaccxcyczaccAcBcCcCcMaccDcEcFacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababckckckckabababcGcHcHcIcJjycGaccLcMcMcNcOcPcBcQcMbicqcMcMacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababcGcGcGcGcGcGcGcGcGababababababababababababababababababababababababcGcRjyjycScTcGacacacacbTcUcMcVcVcVacacbTacacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababcGcWjVjVcYjVjVcZcGababababababababababababababababababababababababcGdadbjyjyjJcGaccxdddebldfeVcMdgdhacdidjdkacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababcGjVcGcGcGcGcGjVcGababababababababababababababababababababababababcGdlcWjVcWjVcGacdmcqcqcqcqdncMagdocMcMagdpacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababcGjVcGabababcGjVcGababababababababababababababababababababababababcGdqdrjVdsjVcGacacacacacdtcVcVcMcMacacacacacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aadudvdvdududududwdwdxdxdudududydvdvababcGdzcGabababababababababababababababababababababababdAcGdsjVjVdBjVcGacdCdDdEacdFeVdGdHdIacdJdKdLacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aadudMdNdOdudPdXdRdwdSdTdUdwdVdWdXdwababcGjVcGabababababababababababababababababababababababdAcGjVdYjVdZjVcGaccMeaeVcqebcqecedeVeVeeeVefacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aadueheheidvejekeldudTdTemdwendXeodwababcGjVcGabababababababababababababababababababababababdAcGjVjVjVjVepcGacacacacaceqeresesesblacacacacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aadueteheudvevdXewduexdTexdueydXezdwababcGjVcGabababababababababababababababababababababababdAeAcZeBjVeCjVcGaceDeEeFbTeGeHeIcqeJbTeKeLeMacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aadudveNdvdvdveOduePdueQdududueRdududwabcGjVcGabababababababababababababababababababababababdAeAeSjVjVjVjVcGaceTeUeVeVcqcqcqcqeWapeVeXeVacababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aadueYeZfafbfcfefefefefefefefefefeffdwabcGjVcGababababababababababababababababababababababababeAfgjVjVdYjVcGacacacacacacfhfifjacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aadvfkfleZfefmfefefefefefefnfefefefodwabcGjVcGabababababababababababababababababababababababababfpjVjVjVeScGabacfqfrfsacftfifuacfvfwfxacfyfzfAacfyfBfCacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aadvfDeZfefEfFdwdvfGfGdvdvfHfefIfefJdwabcGdzcGababababababababababababababababababababababababcGfKjVjVjVdzcGabacfyfLfMacfjfufNacfOfPafacfyfRfSacfufTfUacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aadwdwdwdwdwdwdwfVhEhEfXdvfefefefYfedwabcGjVcGababababababababababababababababababababababababeAjVfZgaeSjVcGabacgbgcgdacfjgegfacggghgiacgjgcfjacfugcgkacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGcHgljygmgngHgphEhEgHdvgrgsgtgugvdwabgwjVcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGeAeAcGcGcGcGcGjVjVgxgyjVcGabacacgzacacgAgBfjacacgCacacacgDacacacgCacacgEgEgEgEgFgEababgEgEabgEgEababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjygGjygHgHgHgHhEcKgIdwdvdvdvdwdwdwabgwjVjVcWjVjVcYjVjVjVjVjVjVjVcYjVgJjVjVjVjVjVjVjVdBgKgLgMeSjVjVjVjVcGabacgNgzgOgPgQgRfjgSgTfyfyfBfjgUgVgWfygXgYgZhahahahahagFabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGhbhcjygmhdhegHhfcXgHdwabababababababgwjVcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGeAeAcGcGjVjVjnjVjVhhabachihjfuhkfShlhmfyfyhnfjfyfyfyfyfjfyfufjhohphqhqhphqgFgEababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGhrjyjydwdwdwdcdQhEhtdwabababababababcGdzcGababababababababababababababababababababababababcGjVjVjVdrjVhhabachuhvgVfugefuhwfjfjfyhxhyfyfyfygYhzfyhAachahahahahagEabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGhBjyhCcGabdwhDhEhFgHdvabababababababcGjVcGababababababababababababababababababababababababcGhGjVjVjVjVcGabacacacacacacgCacacacgDacacachHacacachIacacgEgEgEgEgEgEababgEgEabgEgEgEabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGhJhKhLcGabdvdvdvdvdvdvabababababababcGhMcGababababababababababababababababababababababababcGjVjVhGjVjVcGabababababachNgchOacfygcfjacfygcfyachPgcfuacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGhBegfdcGabcGcGcGcGcGcGcGcGcGcGcGcGcGcGhRcGcGcGcGcGcGabababababababababababababababababababcGhGjVjVjVjVcGabababababachThUhVacfyhWhXacfyhYfyachZiaibacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGicjyidcGabcGjVjVjwjVjVjVifjVjVjwjVjVjVjVjVjViWcWihcGabababababababababababababababababababcGdYdYdYjVjVcGabababababaciiijikacfjilfjacfyinfyacfuioipacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjyiqjycGcGcGgMcGcGcGcGcGcGcGcGcGcGcGababcGcGcGcGcGcGeAeAcGeAeAeAcGcGcGcGcGcGgweAeAeAcGcGcGcGirisjVitjVcGcGeAeAcGdAacacacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjyjyjViuivjVjViwcHjyixiyjyjyiziAcYjVabababababiBjViCiDiEcYjVjVjVjVabiGiGiGiHiIiJiKiLiMjViLjVjVjVjViNjVeSjVjViOiPjVcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjViQiCjVjVjyiRjyjyjyiSfQjyiTcWiWgLababjViTjVjViUiVhRababiWjVababcGiGiGjVjVjVjVcGjVjViXjVjViYjVjVjVjVjVabiZjajVcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjbjVjVjVjcjVjdjyjyjVgGjydYjVhRjVhRjejVjVjVjbabjfjgjhabababjVjVabiGiGiGababjidrjVabjjjJiLjkjleSjVjVjVjVababjnjVjoeAabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjViQjVjVjpiCjVjVjyjVjVjVjrfWjVjVcWjgjVjsjVjVhRabababjVabababjVababiGcGiGababcGjtjViWfZjVeAjVjVjVjVjljVababjVjVababdAabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjViujVjwjViWjujvjVjwjVjVjyjxjyjzjAaEjCgwjgababababababjDjVabiGiGiGiGcGabjEjVjVjVjViYjFhCjVjVeSjVjVeSdYjVirababdAabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcGababababababcGeAeAababcGcGcGcGcGcGcGcGcGcGeAeAjVjljHjVgLeAcGcGcGcGdAdAabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababeAjVjniZjVjIcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjJcGabababababababababababababababababababababababababababababababababababababababababcGjljVjVjljKcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababeAjVjLjljSaKcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababeAjlbgjSjSjSeAabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababeAjSbyjSjSjSeAabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababeAjSjSjSjSabeAabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababeAjSjSjSjSabcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababeAjSjSjTababcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababcGjSjSjSababcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjbjVcGabababababababababababababababababababababababababababababababababababababababababeAjTjUabababcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGiQjVjJcGabababababababababababababababababababababababababababababababababababababababababeAabababababcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababcGabababababcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGiujWiucGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGhCjVjVcGabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVjXjXjYjZjXabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVkakbkckdjXabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVjVjVkekfkgkbjXabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGjVkhjVkekikjkkjXabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGdYkljVkejXjZjZjZabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aacGcGcGcGcGkmkmkmkmabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+knknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknkn
+"}

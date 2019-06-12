@@ -96,6 +96,29 @@
 	sheet_type = null
 	canSmoothWith = list(/turf/closed/wall/f13/store, /turf/closed/wall)
 
+/turf/closed/wall/f13/store/forwindow
+	icon = 'icons/fallout/objects/structures/windows.dmi'
+	icon_state = "storeprewindowright_w"
+
+/turf/closed/wall/f13/store/forwindow/wall1
+	icon_state = "storeprewindowright_w"
+
+/turf/closed/wall/f13/store/forwindow/wall2
+	icon_state = "storewall"
+
+/turf/closed/wall/f13/store/forwindow/wall3
+	icon_state = "storeprewindowhorizontal_w"
+
+/turf/closed/wall/f13/store/forwindow/wall4
+	icon_state = "storeprewindowtop_w"
+
+/turf/closed/wall/f13/store/forwindow/wall5
+	icon_state = "storeprewindowbottom_w"
+
+/turf/closed/wall/f13/store/forwindow/wall6
+	icon_state = "storeprewindowvertical_w"
+
+
 /turf/closed/wall/f13/supermart
 	name = "supermart wall"
 	desc = "A pre-War supermart wall made of reinforced concrete."

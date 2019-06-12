@@ -889,3 +889,9 @@
 	update_health()
 
 	return TRUE
+
+/obj/structure/barricade_m/concrete
+	icon_state = "snow_0"
+
+/obj/structure/barricade_m/concreteruined
+	icon_state = "snow_1"
