@@ -96,26 +96,31 @@
 	sheet_type = null
 	canSmoothWith = list(/turf/closed/wall/f13/store, /turf/closed/wall)
 
-/turf/closed/wall/f13/store/forwindow
+/turf/closed/wall/f13/forwindow
+	name = "Store wall"
+	desc = "A pre-War store wall made of solid concrete."
 	icon = 'icons/fallout/objects/structures/windows.dmi'
 	icon_state = "storeprewindowright_w"
+	hardness = 800000
+	disasemblable = 0
+	grider = 0
 
-/turf/closed/wall/f13/store/forwindow/wall1
+/turf/closed/wall/f13/forwindow/wall1
 	icon_state = "storeprewindowright_w"
 
-/turf/closed/wall/f13/store/forwindow/wall2
+/turf/closed/wall/f13/forwindow/wall2
 	icon_state = "storewall"
 
-/turf/closed/wall/f13/store/forwindow/wall3
+/turf/closed/wall/f13/forwindow/wall3
 	icon_state = "storeprewindowhorizontal_w"
 
-/turf/closed/wall/f13/store/forwindow/wall4
+/turf/closed/wall/f13/forwindow/wall4
 	icon_state = "storeprewindowtop_w"
 
-/turf/closed/wall/f13/store/forwindow/wall5
+/turf/closed/wall/f13/forwindow/wall5
 	icon_state = "storeprewindowbottom_w"
 
-/turf/closed/wall/f13/store/forwindow/wall6
+/turf/closed/wall/f13/forwindow/wall6
 	icon_state = "storeprewindowvertical_w"
 
 

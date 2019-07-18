@@ -890,8 +890,11 @@
 
 	return TRUE
 
-/obj/structure/barricade_m/concrete
+/*/obj/structure/barricade_m/sandbags/concrete
+	name = "Concrete"
 	icon_state = "snow_0"
 
-/obj/structure/barricade_m/concreteruined
+
+//obj/structure/barricade_m/sandbags/concrete/ruined
 	icon_state = "snow_1"
+*/

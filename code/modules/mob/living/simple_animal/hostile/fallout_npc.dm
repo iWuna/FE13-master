@@ -206,10 +206,9 @@
 /mob/living/simple_animal/hostile/enclave/soldier
 	name = "Enclave Soldier"
 	desc = "Just a Enclave Soldier"
-	icon_state = "enclave_soldier"
-	icon_living = "enclave_soldier"
-	icon_dead = "enclave_soldier"
-	icon_gib = "enclave_soldier"
+	icon_state = "enclave_soldier-1"
+	//icon_dead = "enclave_soldier[rand(1,5)]"
+//	icon_gib = "enclave_soldier[rand(1,5)]"
 	maxHealth = 500
 	health = 500
 	retreat_distance = 5
@@ -222,6 +221,10 @@
 	projectiletype = /obj/item/projectile/beam/plasma
 	projectilesound = 'sound/f13weapons/plasmarifle.ogg'
 	XP = 80
+/mob/living/simple_animal/hostile/enclave/soldier/initialize()
+	..()
+	icon_state = "enclave_soldier-[rand(1,5)]"
+	icon_living = "enclave_soldier-[rand(1,5)]"
 
 /obj/effect/mob_spawn/human/corpse/enclave/soldier
 	name = "Enclave Soldier"
