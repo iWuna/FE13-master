@@ -14,8 +14,8 @@
 
 // BEGIN_INCLUDE
 #include "_maps\__MAP_DEFINES.dm"
-#include "_maps\denwer.dm"
-#include "_maps\map_files\Equestria\debug.dmm"
+#include "_maps\wasteland_debug.dm"
+#include "_maps\map_files\debug\wasteland.dmm"
 #include "_maps\RandomZLevels\centcomAway.dmm"
 #include "code\_compile_options.dm"
 #include "code\world.dm"
@@ -1582,6 +1582,7 @@
 #include "code\modules\mining\lavaland\necropolis_chests.dm"
 #include "code\modules\mining\lavaland\ruins\gym.dm"
 #include "code\modules\mob\death.dm"
+#include "code\modules\mob\interactive.dm"
 #include "code\modules\mob\inventory.dm"
 #include "code\modules\mob\login.dm"
 #include "code\modules\mob\logout.dm"
