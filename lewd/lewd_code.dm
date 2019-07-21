@@ -1,7 +1,7 @@
-/proc/cum_splatter(var/datum/reagent/blood/source, var/atom/target) // Like blood_splatter(), but much more questionable on a resume.
+/*/proc/cum_splatter(var/datum/reagent/blood/source, var/atom/target) // Like blood_splatter(), but much more questionable on a resume.
 	var/obj/effect/decal/cleanable/cum/C = new(get_turf(target))
 	C.blood_DNA = list()
-	C.blood_DNA[source.data["blood_DNA"]] = (source && source.data && source.data["blood_type"]) ? source.data["blood_type"] : "O+"
+	C.blood_DNA[source.data["blood_DNA"]] = (source && source.data && source.data["blood_type"]) ? source.data["blood_type"] : "O+" */
 
 /mob/var/lastmoan
 
@@ -118,22 +118,22 @@
 
 	if(partner.is_fucking(src, CUM_TARGET_MOUTH))
 		if(prob(partner.sexual_potency))
-			message = "goes in deep on \the [partner]."
+			message = "зарывается языком в вагину [partner]."
 			lust_increase += 5
 		else
 			if(partner.has_vagina())
-				message = "licks \the [partner]'s pussy."
+				message = "лижет вагину [partner]."
 			else if(partner.has_penis())
-				message = "sucks \the [partner] off."
+				message = "посасывает член [partner]."
 			else
-				message = "licks \the [partner]."
+				message = "лижет член [partner]."
 	else
 		if(partner.has_vagina())
-			message = "buries their face in \the [partner]'s pussy."
+			message = "прижимается лицом к вагине [partner]."
 		else if(partner.has_penis())
-			message = "takes \the [partner]'s cock into their mouth."
+			message = "берёт член [partner] в своё ротик."
 		else
-			message = "begins to lick \the [partner]."
+			message = "принимается лизать член [partner]."
 		partner.set_is_fucking(src, CUM_TARGET_MOUTH)
 
 	playsound(get_turf(src), "honk/sound/interactions/bj[rand(1, 11)].ogg", 50, 1, -1)
@@ -282,7 +282,7 @@
 	if(partner.is_fucking(src, CUM_TARGET_HAND))
 		message = "[pick(list("дрочит [partner].", "работает рукой с головкой члена [partner].", "надрачивает член [partner] быстрее."))]"
 	else
-		message = "нежно обхватывает член [partner] рукой."
+		message = "нежно обхватывает член [partner] копытом."
 		partner.set_is_fucking(src, CUM_TARGET_HAND)
 
 	playsound(src, "honk/sound/interactions/bang[rand(1, 3)].ogg", 70, 1, -1)
@@ -298,7 +298,7 @@
 	if(is_fucking(partner, CUM_TARGET_BREASTS))
 		message = "[pick(list("трахает [partner] между грудей.", "сношает [partner] между сисек."))]"
 	else
-		message = "взял груди [partner] и надрачивает ими свой член."
+		message = "взял груди [partner] копытом и надрачивает ими свой член."
 		set_is_fucking(partner , CUM_TARGET_BREASTS)
 
 

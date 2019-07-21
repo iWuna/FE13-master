@@ -166,3 +166,15 @@
 		var/mob/living/M = target
 		M.adjust_fire_stacks(1)
 		M.IgniteMob()
+
+///magic///
+
+/obj/item/projectile/beam/arrowspell
+	name = "magic arrow"
+	damage = 35
+	irradiate = 4
+	icon_state = "arrow"
+	icon = 'icons/fallout/objects/guns/projectiles.dmi'
+	impact_effect_type = /obj/effect/overlay/temp/impact_effect/plasma
+	light_color = LIGHT_COLOR_BLUE
+	pass_flags = PASSTABLE | PASSGRILLE

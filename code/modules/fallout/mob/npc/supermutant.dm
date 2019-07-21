@@ -1,14 +1,14 @@
 //Fallout 13 super mutants directory
 
 /mob/living/simple_animal/hostile/supermutant
-	name = "super mutant"
-	desc = "A huge and ugly mutant humanoid."
+	name = "Alicorn"
+	desc = "A huge and ugly mutant pony."
 	icon = 'icons/fallout/mobs/supermutant.dmi'
-	icon_state = "hulk_113_s"
-	icon_living = "hulk_113_s"
-	icon_dead = "hulk_113_s"
-	speak_chance = 10
-	speak = list("GRRRRRR!", "ARGH!", "NNNNNGH!", "HMPH!", "ARRRRR!")
+	icon_state = "hulk1_s"
+	icon_living = "hulk1_s"
+	icon_dead = "hulk1_s"
+	speak_chance = 45
+	speak = list("лнкх ябнху анцхмэ!", "рпеоеых оепед яхкни едхмярбю!", "бекхйне х лнцсвее едхмярбн смхврнфхр реаъ!", "ядюияъ х опхлх ябнч ялепрэ!", "яхкю б едхмярбе х мюьеи анцхме!")
 	speak_emote = list("shouts", "yells")
 	move_to_delay = 5
 	environment_smash = 2
@@ -26,8 +26,20 @@
 	attacktext = "hits"
 	attack_sound = "punch"
 	self_weight = 250
-
+	ranged = 1
+	projectiletype = /obj/item/projectile/beam/arrowspell
+	projectilesound = 'sound/magic/WandODeath.ogg'
 	XP = 13
+
+/mob/living/simple_animal/hostile/supermutant/violet
+	icon_state = "hulk2_s"
+	icon_living = "hulk2_s"
+	icon_dead = "hulk2_s"
+
+/mob/living/simple_animal/hostile/supermutant/blue
+	icon_state = "hulk3_s"
+	icon_living = "hulk3_s"
+	icon_dead = "hulk3_s"
 
 /mob/living/simple_animal/hostile/supermutant/death(gibbed)
 	icon = 'icons/fallout/mobs/supermutant_dead.dmi'
