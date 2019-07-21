@@ -9,7 +9,7 @@
 	skinned_type = /obj/item/stack/sheet/animalhide/human
 
 /datum/species/human/qualifies_for_faction(faction_id)
-	if(faction_id == "acolytes")
+	if(faction_id == "acolytes" || faction_id == "enclave")
 		return 0
 	return 1
 

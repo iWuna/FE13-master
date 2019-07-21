@@ -767,9 +767,9 @@
 	name = "Angel"
 	icon_state = "angel"
 	color_src = 1
-	dimension_x = 46
+//	dimension_x = 46
 	center = TRUE
-	dimension_y = 34
+//	dimension_y = 34
 	locked = TRUE
 
 /datum/sprite_accessory/frills
