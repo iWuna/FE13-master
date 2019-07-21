@@ -21,7 +21,7 @@
 /datum/interaction/handshake
 	command = "handshake"
 	description = "Поздороваться."
-	simple_message = "USER shakes the hand of TARGET."
+	simple_message = "USER трясёт копыта TARGET."
 	require_user_hands = 1
 	needs_physical_contact = 1
 
@@ -75,7 +75,7 @@ datum/interaction/kiss/evaluate_user(var/mob/user, var/silent=1)
 	command = "headpat"
 	description = "Похлопать по голове."
 	require_user_hands = 1
-	simple_message = "USER хлопает TARGET по голове!"
+	simple_message = "USER хлопает копытом TARGET по голове!"
 	needs_physical_contact = 1
 
 /datum/interaction/salute
@@ -89,7 +89,7 @@ datum/interaction/kiss/evaluate_user(var/mob/user, var/silent=1)
 	command = "fistbump"
 	description = "Брофист!"
 	require_user_hands = 1
-	simple_message = "USER сделал брофист с TARGET! О да!"
+	simple_message = "USER сделал брохуф с TARGET! О да!"
 	needs_physical_contact = 1
 
 /datum/interaction/pinkypromise
@@ -101,16 +101,16 @@ datum/interaction/kiss/evaluate_user(var/mob/user, var/silent=1)
 
 /datum/interaction/bird
 	command = "bird"
-	description = "Показать средний палец!"
+	description = "Послать!"
 	require_user_hands = 1
-	simple_message = "USER показывает средний палец TARGET!"
+	simple_message = "USER посылает TARGET в тартар!"
 	max_distance = 25
 
 /datum/interaction/holdhand
 	command = "holdhand"
-	description = "Подержать за руку."
+	description = "Подержать за копыто."
 	require_user_hands = 1
-	simple_message = "USER держит TARGET за руку."
+	simple_message = "USER держит TARGET за копыто."
 	max_distance = 25
 	needs_physical_contact = 1
 	max_distance = 25
