@@ -225,15 +225,15 @@
 		if("blue")
 			. = "7997d9"
 		if("lyra")
-			. = "#4fded0"
+			. = "56d6ca"
 		if("yellow")
 			. = "dbd955"
 		if("steelhooves")
 			. = "82c52b"
-		if("african2")
-			. = "471c18"
+		if("cyan")
+			. = "5987a8"
 		if("albino")
-			. = "fff4e6"
+			. = "e8a0de"
 		if("orange")
 			. = "ffc905"
 
