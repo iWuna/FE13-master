@@ -99,8 +99,3 @@
 	name = "basilisk den"
 	desc = "A den housing a nest of basilisks, bring a coat."
 	mob_type = /mob/living/simple_animal/hostile/asteroid/basilisk
-
-/mob/living/simple_animal/hostile/spawner/mining/wumborian
-	name = "wumborian fugu den"
-	desc = "A den housing a nest of wumborian fugus, how do they all even fit in there?"
-	mob_type = /mob/living/simple_animal/hostile/asteroid/fugu

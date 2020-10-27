@@ -5,9 +5,9 @@
 		#define MINETYPE "lavaland"
 
 //		#include "map_files\Equestria\manehattan.dmm"
-		#include "map_files\Denwer\denwersurface.dmm"
-		#include "map_files\Denwer\denwersewers.dmm"
-//		#include "map_files\Equestria\Equestria.dmm"
+//		#include "map_files\Denwer\denwersurface.dmm"
+//		#include "map_files\Denwer\denwersewers.dmm"
+		#include "map_files\Equestria\Equestria.dmm"
 //		#include "map_files\Equestria\navarro.dmm"
 		#include "RandomZLevels\centcomAway.dmm"
 //		#include "map_files\Equestria\tunnel1.dmm"
